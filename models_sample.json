@@ -1,0 +1,3762 @@
+[
+  {
+    "id": "almanach/camembert-base",
+    "task": "fill-mask",
+    "downloads": 819837,
+    "likes": 99,
+    "tags": "transformers, pytorch, tf, safetensors, camembert, fill-mask, fr, dataset:oscar",
+    "description": "[CamemBERT](https://arxiv.org/abs/1911.03894) is a state-of-the-art language model for French based on the RoBERTa model."
+  },
+  {
+    "id": "Qwen/Qwen2-VL-2B-Instruct",
+    "task": "image-text-to-text",
+    "downloads": 2451132,
+    "likes": 498,
+    "tags": "transformers, safetensors, qwen2_vl, image-text-to-text, multimodal, conversational, en, arxiv:2409.12191",
+    "description": "We're excited to unveil **Qwen2-VL**, the latest iteration of our Qwen-VL model, representing nearly a year of innovation."
+  },
+  {
+    "id": "OpenGVLab/VideoMAEv2-Large",
+    "task": "video-classification",
+    "downloads": 4220,
+    "likes": 1,
+    "tags": "safetensors, VideoMAEv2_Base, vision, video-classification, custom_code, arxiv:2203.12602, arxiv:2303.16727, license:cc-by-nc-4.0",
+    "description": "VideoMAEv2-Large model pre-trained for 800 epochs in a self-supervised way on UnlabeldHybrid-1M dataset. It was introduced in the paper [[CVPR23]VideoMAE V2: Scaling Video Masked Autoencoders with Dua"
+  },
+  {
+    "id": "zimengxiong/Qwen-Image-Layered-6bit",
+    "task": "image-text-to-image",
+    "downloads": 0,
+    "likes": 2,
+    "tags": "mflux, safetensors, apple-silicon, mlx, quantized, image-decomposition, rgba, image-text-to-image",
+    "description": "6-bit quantized version of [Qwen/Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered) optimized for **Apple Silicon** via [MFLUX](https://github.com/filipstrand/mflux)."
+  },
+  {
+    "id": "nsugianto/detr-resnet50_finetuned_mstabletrnsdet_lsdocelementdetv1type6_v2_s1",
+    "task": "object-detection",
+    "downloads": 1752,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, table-transformer, object-detection, generated_from_trainer, base_model:microsoft/table-transformer-detection, base_model:finetune:microsoft/table-transformer-detection",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "m3/sscd-copy-detection",
+    "task": "image-feature-extraction",
+    "downloads": 4768,
+    "likes": 3,
+    "tags": "transformers, safetensors, sscd-copy-detection, image-feature-extraction, license:apache-2.0, endpoints_compatible, region:us",
+    "description": "refer: https://github.com/facebookresearch/sscd-copy-detection"
+  },
+  {
+    "id": "sentence-transformers/all-MiniLM-L12-v2",
+    "task": "sentence-similarity",
+    "downloads": 3137123,
+    "likes": 302,
+    "tags": "sentence-transformers, pytorch, rust, onnx, safetensors, openvino, bert, feature-extraction",
+    "description": "This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search."
+  },
+  {
+    "id": "crynux-network/sdxl-turbo",
+    "task": "text-to-image",
+    "downloads": 596978,
+    "likes": 3,
+    "tags": "diffusers, license:apache-2.0, endpoints_compatible, diffusers:StableDiffusionXLPipeline, region:us",
+    "description": ""
+  },
+  {
+    "id": "Qwen/Qwen2.5-Coder-7B",
+    "task": "text-generation",
+    "downloads": 1381526,
+    "likes": 140,
+    "tags": "transformers, safetensors, qwen2, text-generation, code, qwen, qwen-coder, codeqwen",
+    "description": "Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen). As of now, Qwen2.5-Coder has covered six mainstream model sizes, 0.5, 1.5, 3, 7, 14, 32 bil"
+  },
+  {
+    "id": "Atotti/llm-jp-4-8b-speech-chat",
+    "task": "audio-text-to-text",
+    "downloads": 290,
+    "likes": 8,
+    "tags": "transformers, safetensors, llama_for_speech_lm, japanese, speech, audio, speech-to-text, llm-jp",
+    "description": "`llm-jp-4-8b-speech-chat` is a Japanese speech-language model for **audio input \u2192 text output** interactions."
+  },
+  {
+    "id": "VAST-AI/TripoSG",
+    "task": "image-to-3d",
+    "downloads": 1563,
+    "likes": 134,
+    "tags": "diffusers, safetensors, triposg, 3d-generation, rectified-flow, image-to-3d, arxiv:2502.06608, license:mit",
+    "description": "TripoSG is a state-of-the-art image-to-3D generation foundation model that leverages large-scale rectified flow transformers to produce high-fidelity 3D shapes from single images."
+  },
+  {
+    "id": "ac0hik/Sentiment_Analysis_French",
+    "task": "text-classification",
+    "downloads": 97788,
+    "likes": 2,
+    "tags": "transformers, tensorboard, safetensors, camembert, text-classification, generated_from_trainer, dataset:tweet_sentiment_multilingual, base_model:almanach/camembert-base",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "nvidia/bigvgan_base_22khz_80band",
+    "task": "audio-to-audio",
+    "downloads": 377,
+    "likes": 0,
+    "tags": "PyTorch, neural-vocoder, audio-generation, audio-to-audio, arxiv:2206.04658, license:mit, region:us",
+    "description": "[[Paper]](https://arxiv.org/abs/2206.04658) - [[Code]](https://github.com/NVIDIA/BigVGAN) - [[Showcase]](https://bigvgan-demo.github.io/) - [[Project Page]](https://research.nvidia.com/labs/adlr/proje"
+  },
+  {
+    "id": "Jonah-M/ProTrix-Q5_K_M-GGUF",
+    "task": "table-question-answering",
+    "downloads": 3,
+    "likes": 0,
+    "tags": "transformers, gguf, llama-cpp, gguf-my-repo, table-question-answering, base_model:pkupie/ProTrix, base_model:quantized:pkupie/ProTrix, license:llama2",
+    "description": "This model was converted to GGUF format from [`pkupie/ProTrix`](https://huggingface.co/pkupie/ProTrix) using llama.cpp via the ggml.ai's [GGUF-my-repo](https://huggingface.co/spaces/ggml-org/gguf-my-r"
+  },
+  {
+    "id": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "task": "text-to-speech",
+    "downloads": 571907,
+    "likes": 324,
+    "tags": "qwen-tts, safetensors, qwen3_tts, audio, tts, qwen, multilingual, text-to-speech",
+    "description": "&nbsp&nbsp\ud83e\udd17 <a href=\"https://huggingface.co/collections/Qwen/qwen3-tts\">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp\ud83e\udd16 <a href=\"https://modelscope.cn/collections/Qwen/Qwen3-TTS\">ModelScope</a>&nbsp&nbsp | &"
+  },
+  {
+    "id": "naver-clova-ix/donut-base-finetuned-cord-v2",
+    "task": "image-to-text",
+    "downloads": 20236,
+    "likes": 119,
+    "tags": "transformers, pytorch, vision-encoder-decoder, image-text-to-text, donut, image-to-text, vision, arxiv:2111.15664",
+    "description": "Donut model fine-tuned on CORD. It was introduced in the paper [OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664) by Geewok et al. and first released in [this repository]("
+  },
+  {
+    "id": "John6666/prefect-illustrious-xl-v3-sdxl",
+    "task": "text-to-image",
+    "downloads": 179448,
+    "likes": 0,
+    "tags": "diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, anime, girls, styles",
+    "description": "Original model is [here](https://civitai.com/models/1224788/prefect-illustrious-xl?modelVersionId=2081643)."
+  },
+  {
+    "id": "camenduru/RMBG-2.0",
+    "task": "image-segmentation",
+    "downloads": 2623,
+    "likes": 1,
+    "tags": "transformers, pytorch, onnx, safetensors, image-segmentation, remove background, background, background-removal",
+    "description": "href=\"https://huggingface.co/briaai/FIBO\""
+  },
+  {
+    "id": "alibaba-pai/Wan2.1-Fun-1.3B-InP",
+    "task": "text-to-video",
+    "downloads": 907,
+    "likes": 38,
+    "tags": "videox_fun, diffusers, safetensors, i2v, video, video-generation, text-to-video, en",
+    "description": "[English](./README_en.md) | [\u7b80\u4f53\u4e2d\u6587](./README.md)"
+  },
+  {
+    "id": "Xenova/slimsam-50-uniform",
+    "task": "mask-generation",
+    "downloads": 203,
+    "likes": 0,
+    "tags": "transformers.js, onnx, sam, mask-generation, slimsam, base_model:nielsr/slimsam-50-uniform, base_model:quantized:nielsr/slimsam-50-uniform, license:apache-2.0",
+    "description": "https://huggingface.co/nielsr/slimsam-50-uniform with ONNX weights to be compatible with Transformers.js."
+  },
+  {
+    "id": "Keetawan/clip-vit-large-patch14-plant-disease-finetuned",
+    "task": "zero-shot-classification",
+    "downloads": 250,
+    "likes": 2,
+    "tags": "safetensors, clip, vision, zero-shot-classification, plant-disease, agriculture, fine-tuned, en",
+    "description": "This model is a fine-tuned version of [openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) on a custom dataset for plant disease captioning. It is designed to classify"
+  },
+  {
+    "id": "Onelove21/animate",
+    "task": "video-to-video",
+    "downloads": 13,
+    "likes": 0,
+    "tags": "diffusers, onnx, safetensors, video-to-video, arxiv:2503.20314, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:quantized:Wan-AI/Wan2.2-I2V-A14B, license:apache-2.0",
+    "description": "\ud83d\udc9c <a href=\"https://wan.video\"><b>Wan</b></a> &nbsp&nbsp \uff5c &nbsp&nbsp \ud83d\udda5\ufe0f <a href=\"https://github.com/Wan-Video/Wan2.2\">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp\ud83e\udd17 <a href=\"https://huggingface.co/Wan-AI/\">Hugg"
+  },
+  {
+    "id": "mlx-community/gemma-4-e2b-it-8bit",
+    "task": "any-to-any",
+    "downloads": 2088,
+    "likes": 2,
+    "tags": "mlx, safetensors, gemma4, any-to-any, license:apache-2.0, 8-bit, region:us",
+    "description": "This model was converted to MLX format from [`google/gemma-4-e2b-it`](https://huggingface.co/google/gemma-4-e2b-it)"
+  },
+  {
+    "id": "NbAiLab/nb-wav2vec2-1b-nynorsk",
+    "task": "automatic-speech-recognition",
+    "downloads": 808279,
+    "likes": 0,
+    "tags": "transformers, pytorch, tensorboard, safetensors, wav2vec2, automatic-speech-recognition, NbAiLab/NPSC, no",
+    "description": "This model is finetuned on top of feature extractor [XLS-R](https://huggingface.co/facebook/wav2vec2-xls-r-1b) from Facebook/Meta. The finetuned model achieves the following results on the test set wi"
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-ChemicalDetect-ModernMed-395M",
+    "task": "token-classification",
+    "downloads": 181690,
+    "likes": 0,
+    "tags": "transformers, safetensors, modernbert, token-classification, named-entity-recognition, biomedical-nlp, chemical-entity-recognition, drug-discovery",
+    "description": "**Specialized model for Chemical Entity Recognition - Identifies chemical compounds and substances in biomedical literature**"
+  },
+  {
+    "id": "MrLight/dse-qwen2-2b-mrl-v1",
+    "task": "visual-document-retrieval",
+    "downloads": 21496,
+    "likes": 68,
+    "tags": "Tevatron, pytorch, qwen2_vl, vidore, visual-document-retrieval, en, fr, dataset:Tevatron/docmatix-ir",
+    "description": "DSE-QWen2-2b-MRL-V1 is a bi-encoder model designed to encode document screenshots into dense vectors for document retrieval."
+  },
+  {
+    "id": "daniilsob/Wan2.2-Animate-14B",
+    "task": "video-to-video",
+    "downloads": 2,
+    "likes": 0,
+    "tags": "diffusers, onnx, safetensors, video-to-video, arxiv:2503.20314, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:quantized:Wan-AI/Wan2.2-I2V-A14B, license:apache-2.0",
+    "description": "\ud83d\udc9c <a href=\"https://wan.video\"><b>Wan</b></a> &nbsp&nbsp \uff5c &nbsp&nbsp \ud83d\udda5\ufe0f <a href=\"https://github.com/Wan-Video/Wan2.2\">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp\ud83e\udd17 <a href=\"https://huggingface.co/Wan-AI/\">Hugg"
+  },
+  {
+    "id": "mlx-community/Molmo2-8B-4bit",
+    "task": "video-text-to-text",
+    "downloads": 118,
+    "likes": 2,
+    "tags": "transformers, safetensors, molmo2, image-text-to-text, multimodal, olmo, molmo, mlx",
+    "description": "This model was converted to MLX format from [`allenai/Molmo2-8B`]() using mlx-vlm version **0.3.10**."
+  },
+  {
+    "id": "deepseek-ai/Janus-Pro-7B",
+    "task": "any-to-any",
+    "downloads": 65386,
+    "likes": 3565,
+    "tags": "transformers, pytorch, multi_modality, muiltimodal, text-to-image, unified-model, any-to-any, arxiv:2501.17811",
+    "description": "Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation."
+  },
+  {
+    "id": "openmmlab-community/mm_grounding_dino_base_all",
+    "task": "zero-shot-object-detection",
+    "downloads": 3633,
+    "likes": 2,
+    "tags": "transformers, safetensors, mm-grounding-dino, zero-shot-object-detection, vision, arxiv:2401.02361, arxiv:2104.12763, arxiv:1608.00272",
+    "description": "[MM Grounding DINO](https://arxiv.org/abs/2401.02361) model was proposed in [An Open and Comprehensive Pipeline for Unified Object Grounding and Detection](https://arxiv.org/abs/2401.02361) by Xiangyu"
+  },
+  {
+    "id": "vyver7952/autotrain-foreign-exchange-idr-usd-50442120509",
+    "task": "tabular-regression",
+    "downloads": 1,
+    "likes": 0,
+    "tags": "transformers, joblib, svm, autotrain, tabular, regression, tabular-regression, dataset:vyver7952/autotrain-data-foreign-exchange-idr-usd",
+    "description": "- Problem type: Single Column Regression"
+  },
+  {
+    "id": "upci-ntua/pyrosage-tfishbio-attentivefp",
+    "task": "tabular-regression",
+    "downloads": 2,
+    "likes": 0,
+    "tags": "AttentiveFP, chemistry, molecular-property-prediction, graph-neural-networks, attentivefp, pytorch-geometric, toxicity-prediction, tabular-regression",
+    "description": "This is an AttentiveFP (Attention-based Fingerprint) Graph Neural Network model trained to predict fish bioaccumulation factor. This property measures accumulation in fish tissue, important for food c"
+  },
+  {
+    "id": "bigdefence/Bigvox-HyperCLOVAX-Audio",
+    "task": "audio-text-to-text",
+    "downloads": 24,
+    "likes": 1,
+    "tags": "safetensors, omni_speech_HyperCLOVAX, speech-to-text, korean, llama, audio, voice, bigdefence",
+    "description": "- **Bigvox**\uc740 \ud55c\uad6d\uc5b4 \uc74c\uc131 \uc778\uc2dd\uc5d0 \ud2b9\ud654\ub41c \uace0\uc131\ub2a5, \uc800\uc9c0\uc5f0 \uc74c\uc131 \uc5b8\uc5b4 \uba40\ud2f0\ubaa8\ub2ec \ubaa8\ub378\uc785\ub2c8\ub2e4. [naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B) \uae30\ubc18\uc73c\ub85c \uad6c\ucd95\ub418\uc5c8\uc2b5"
+  },
+  {
+    "id": "neuralmind/bert-base-portuguese-cased",
+    "task": "fill-mask",
+    "downloads": 486627,
+    "likes": 224,
+    "tags": "transformers, pytorch, tf, jax, bert, fill-mask, pt, dataset:brWaC",
+    "description": "BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and "
+  },
+  {
+    "id": "julien-c/wine-quality",
+    "task": "tabular-classification",
+    "downloads": 94,
+    "likes": 20,
+    "tags": "sklearn, joblib, tabular-classification, dataset:wine-quality, dataset:lvwerra/red-wine, region:us",
+    "description": "> Inspired by https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976 by Saptashwa Bhattacharyya"
+  },
+  {
+    "id": "mradermacher/Hulu-Med-Flash-Preview-27B-i1-GGUF",
+    "task": "image-to-text",
+    "downloads": 4991,
+    "likes": 1,
+    "tags": "transformers, gguf, medical, multimodal, vision-language-model, image-to-text, video-understanding, 3d-understanding",
+    "description": "weighted/imatrix quants of https://huggingface.co/ZJU-AI4H/Hulu-Med-Flash-Preview-27B"
+  },
+  {
+    "id": "jayn7/HunyuanVideo-1.5_I2V_480p-GGUF",
+    "task": "image-to-video",
+    "downloads": 763,
+    "likes": 17,
+    "tags": "gguf, image-to-video, video-generation, base_model:tencent/HunyuanVideo-1.5, base_model:quantized:tencent/HunyuanVideo-1.5, region:us",
+    "description": "Quantized GGUF versions of the [HunyuanVideo-1.5-I2V-480p](https://huggingface.co/tencent/HunyuanVideo-1.5) by Tencent."
+  },
+  {
+    "id": "TanAlexanderlz/RALL_RGBCROP_Aug16F-WD01",
+    "task": "video-classification",
+    "downloads": 79,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, videomae, video-classification, generated_from_trainer, base_model:MCG-NJU/videomae-base-finetuned-kinetics, base_model:finetune:MCG-NJU/videomae-base-finetuned-kinetics",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "QuantStack/Wan2.1_I2V_14B_FusionX-GGUF",
+    "task": "image-to-video",
+    "downloads": 1750,
+    "likes": 85,
+    "tags": "gguf, image-to-video, quantized, en, base_model:vrgamedevgirl84/Wan14BT2VFusioniX, base_model:quantized:vrgamedevgirl84/Wan14BT2VFusioniX, license:apache-2.0, region:us",
+    "description": "This is a GGUF conversion of [Wan14Bi2vFusioniX_fp16.safetensors](https://huggingface.co/vrgamedevgirl84/Wan14BT2VFusioniX/blob/main/Wan14Bi2vFusioniX_fp16.safetensors) by [@vrgamedevgirl84](https://h"
+  },
+  {
+    "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+    "task": "audio-classification",
+    "downloads": 625342,
+    "likes": 352,
+    "tags": "transformers, pytorch, safetensors, audio-spectrogram-transformer, audio-classification, arxiv:2104.01778, license:bsd-3-clause, endpoints_compatible",
+    "description": "Audio Spectrogram Transformer (AST) model fine-tuned on AudioSet. It was introduced in the paper [AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778) by Gong et al. and first release"
+  },
+  {
+    "id": "city96/LTX-Video-0.9.6-dev-gguf",
+    "task": "image-to-video",
+    "downloads": 1046,
+    "likes": 6,
+    "tags": "gguf, ltx-video, text-to-video, image-to-video, en, base_model:Lightricks/LTX-Video, base_model:quantized:Lightricks/LTX-Video, license:other",
+    "description": "This is a direct GGUF conversion of [Lightricks/LTX-Video](https://huggingface.co/Lightricks/LTX-Video)."
+  },
+  {
+    "id": "roderickshao/ddpm-celebahq-finetuned-butterflies-2epochs",
+    "task": "unconditional-image-generation",
+    "downloads": 34,
+    "likes": 0,
+    "tags": "diffusers, safetensors, pytorch, unconditional-image-generation, diffusion-models-class, license:mit, diffusers:DDPMPipeline, region:us",
+    "description": "from diffusers import DDPMPipeline"
+  },
+  {
+    "id": "llava-hf/llava-v1.6-mistral-7b-hf",
+    "task": "image-text-to-text",
+    "downloads": 585689,
+    "likes": 305,
+    "tags": "transformers, safetensors, llava_next, image-text-to-text, vision, conversational, en, arxiv:2310.03744",
+    "description": "The LLaVA-NeXT model was proposed in [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/) by Haotian Liu, Chunyuan Li, Yuheng Li, Bo Li, Y"
+  },
+  {
+    "id": "seroe/jina-reranker-v2-base-multilingual-turkish-reranker-triplet-v2",
+    "task": "text-ranking",
+    "downloads": 746,
+    "likes": 1,
+    "tags": "sentence-transformers, safetensors, cross-encoder, generated_from_trainer, dataset_size:89964, loss:CachedMultipleNegativesRankingLoss, text-ranking, custom_code",
+    "description": "This is a [Cross Encoder](https://www.sbert.net/docs/cross_encoder/usage/usage.html) model finetuned from [jinaai/jina-reranker-v2-base-multilingual](https://huggingface.co/jinaai/jina-reranker-v2-bas"
+  },
+  {
+    "id": "vismatch/xfeat-steerers-learned",
+    "task": "keypoint-detection",
+    "downloads": 27,
+    "likes": 0,
+    "tags": "vismatch, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/vismatch"
+  },
+  {
+    "id": "softcatala/wav2vec2-large-xlsr-catala",
+    "task": "automatic-speech-recognition",
+    "downloads": 141181,
+    "likes": 1,
+    "tags": "transformers, pytorch, jax, wav2vec2, automatic-speech-recognition, audio, speech, xlsr-fine-tuning-week",
+    "description": "Fine-tuned [facebook/wav2vec2-large-xlsr-53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) on Catalan language using the [Common Voice](https://huggingface.co/datasets/common_voice) and [Par"
+  },
+  {
+    "id": "kyutai/mimi",
+    "task": "feature-extraction",
+    "downloads": 918178,
+    "likes": 297,
+    "tags": "transformers, safetensors, mimi, feature-extraction, audio, license:cc-by-4.0, endpoints_compatible, region:us",
+    "description": "Mimi codec is a state-of-the-art audio neural codec, developped by [Kyutai](https://kyutai.org/), that combines semantic and acoustic information into audio tokens running at 12.5Hz and a bitrate of 1"
+  },
+  {
+    "id": "mateuszgrzyb/searchless-chess-vit-small",
+    "task": "tabular-regression",
+    "downloads": 14,
+    "likes": 0,
+    "tags": "keras, chess, vision-transformer, vit, tensorflow, tabular-regression, en, dataset:mateuszgrzyb/lichess-stockfish-normalized",
+    "description": "This is the high-efficiency model of the **Searchless Chess** project\u2014a compact neural network that plays chess at a strong club level (~1817 ELO) relying purely on **neural intuition**, without any s"
+  },
+  {
+    "id": "cebas/oneClick_Windows_ImageTo3D_install",
+    "task": "text-to-3d",
+    "downloads": 0,
+    "likes": 18,
+    "tags": "diffusers, art, windows, OneClick install, local, text-to-3d, en, license:apache-2.0",
+    "description": "This is a ONE CLICK, self-contained WINDOWS 10/11 installer for the following model: https://huggingface.co/Zhengyi/CRM <br/>"
+  },
+  {
+    "id": "LeoXie/WorldGen",
+    "task": "text-to-3d",
+    "downloads": 0,
+    "likes": 15,
+    "tags": "3D, Generation, text-to-3d, en, license:apache-2.0, region:us",
+    "description": "WorldGen can generate 3D scenes in seconds from text prompts and images. It is a powerful tool for creating 3D environments and scenes for games, simulations, robotics, and virtual reality application"
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-tc-big-ar-en",
+    "task": "translation",
+    "downloads": 61659,
+    "likes": 22,
+    "tags": "transformers, pytorch, tf, marian, text2text-generation, translation, opus-mt-tc, ar",
+    "description": "Neural machine translation model for translating from Arabic (ar) to English (en)."
+  },
+  {
+    "id": "allenai/specter2_base",
+    "task": "feature-extraction",
+    "downloads": 477718,
+    "likes": 44,
+    "tags": "transformers, pytorch, bert, feature-extraction, en, dataset:allenai/scirepeval, license:apache-2.0, text-embeddings-inference",
+    "description": "SPECTER2 is the successor to [SPECTER](https://huggingface.co/allenai/specter) and is capable of generating task specific embeddings for scientific tasks when paired with [adapters](https://huggingfac"
+  },
+  {
+    "id": "Qwen/Qwen3-4B-Base",
+    "task": "text-generation",
+    "downloads": 1315724,
+    "likes": 84,
+    "tags": "transformers, safetensors, qwen3, text-generation, conversational, arxiv:2505.09388, license:apache-2.0, text-generation-inference",
+    "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models."
+  },
+  {
+    "id": "mradermacher/LongWriter-Zero-32B-i1-GGUF",
+    "task": "reinforcement-learning",
+    "downloads": 457,
+    "likes": 2,
+    "tags": "transformers, gguf, reinforcement-learning, writing, Long Context, en, zh, dataset:THU-KEG/LongWriter-Zero-RLData",
+    "description": "weighted/imatrix quants of https://huggingface.co/THU-KEG/LongWriter-Zero-32B"
+  },
+  {
+    "id": "jayn7/HunyuanVideo-1.5_I2V_720p-GGUF",
+    "task": "image-to-video",
+    "downloads": 1410,
+    "likes": 22,
+    "tags": "gguf, image-to-video, video-generation, base_model:tencent/HunyuanVideo-1.5, base_model:quantized:tencent/HunyuanVideo-1.5, region:us",
+    "description": "Quantized GGUF versions of the [HunyuanVideo-1.5-I2V-720p](https://huggingface.co/tencent/HunyuanVideo-1.5) by Tencent."
+  },
+  {
+    "id": "lysandre/tapas-temporary-repo",
+    "task": "table-question-answering",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "transformers, pytorch, tapas, table-question-answering, en, dataset:sqa, arxiv:2004.02349, arxiv:2010.00571",
+    "description": "This model has 4 versions which can be used. The latest version, which is the default one, corresponds to the `tapas_sqa_inter_masklm_base_reset` checkpoint of the [original Github repository](https:/"
+  },
+  {
+    "id": "facebook/mms-1b-all",
+    "task": "automatic-speech-recognition",
+    "downloads": 2093571,
+    "likes": 195,
+    "tags": "transformers, pytorch, safetensors, wav2vec2, automatic-speech-recognition, mms, ab, af",
+    "description": "This checkpoint is a model fine-tuned for multi-lingual ASR and part of Facebook's [Massive Multilingual Speech project](https://research.facebook.com/publications/scaling-speech-technology-to-1000-la"
+  },
+  {
+    "id": "Qwen/Qwen2.5-Math-PRM-7B",
+    "task": "text-classification",
+    "downloads": 104512,
+    "likes": 86,
+    "tags": "transformers, safetensors, qwen2, feature-extraction, reward model, text-classification, custom_code, en",
+    "description": "In addition to the mathematical Outcome Reward Model (ORM) Qwen2.5-Math-RM-72B, we release the Process Reward Model (PRM), namely Qwen2.5-Math-PRM-7B and Qwen2.5-Math-PRM-72B. PRMs emerge as a promisi"
+  },
+  {
+    "id": "caiovicentino1/Wan2.2-Animate-14B-HLWQ-Q5",
+    "task": "video-to-video",
+    "downloads": 1014,
+    "likes": 3,
+    "tags": "onnx, safetensors, hlwq, video-to-video, arxiv:2502.02617, arxiv:2603.29078, arxiv:2503.20314, base_model:Wan-AI/Wan2.2-I2V-A14B",
+    "description": "> **Naming notice (2026-04-10).** The \"HLWQ\" technique used in this model is being rebranded to **HLWQ (Hadamard-Lloyd Weight Quantization)**. The change is only the name; the algorithm and the weight"
+  },
+  {
+    "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+    "task": "audio-classification",
+    "downloads": 21921,
+    "likes": 108,
+    "tags": "transformers, safetensors, whisper, audio-classification, generated_from_trainer, base_model:openai/whisper-large-v3, base_model:finetune:openai/whisper-large-v3, license:apache-2.0",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "Skywork/Matrix-Game-3.0",
+    "task": "image-text-to-video",
+    "downloads": 130,
+    "likes": 109,
+    "tags": "diffusers, safetensors, image-text-to-video, en, base_model:Wan-AI/Wan2.2-TI2V-5B, base_model:finetune:Wan-AI/Wan2.2-TI2V-5B, license:apache-2.0, diffusers:MatrixGame3I2VPipeline",
+    "description": "**Matrix-Game-3.0** is an open-sourced, memory-augmented interactive world model designed for 720p real-time long-form video generation."
+  },
+  {
+    "id": "nvidia/nemotron-colembed-vl-8b-v2",
+    "task": "visual-document-retrieval",
+    "downloads": 1240,
+    "likes": 38,
+    "tags": "transformers, safetensors, qwen3_vl_nemotron_embed, feature-extraction, text, image, vidore, colpali",
+    "description": "\ud83e\udd17 <a href=\"https://huggingface.co/nvidia/nemotron-colembed-vl-8b-v2\">8B</a> | &nbsp&nbsp \ud83e\udd17 <a href=\"https://huggingface.co/nvidia/nemotron-colembed-vl-4b-v2\">4B</a> | &nbsp&nbsp \ud83e\udd17 <a href=\"https://hug"
+  },
+  {
+    "id": "juliagsy/tapas-fine-tuned",
+    "task": "table-question-answering",
+    "downloads": 9,
+    "likes": 0,
+    "tags": "transformers, pytorch, tapas, table-question-answering, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "image-matching-models/superpoint-lightglue",
+    "task": "keypoint-detection",
+    "downloads": 67,
+    "likes": 0,
+    "tags": "image-matching-models, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/image-matching-models"
+  },
+  {
+    "id": "zpm/Llama-3.1-PersianQA",
+    "task": "document-question-answering",
+    "downloads": 321,
+    "likes": 20,
+    "tags": "transformers, safetensors, gguf, llama, text-generation-inference, trl, QA, document-question-answering",
+    "description": "model_name: Llama-3.1-PersianQA"
+  },
+  {
+    "id": "sofa566/layoutlmv2-base-uncased_finetuned_docvqa",
+    "task": "document-question-answering",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "transformers, pytorch, tensorboard, layoutlmv2, document-question-answering, generated_from_trainer, license:cc-by-nc-sa-4.0, endpoints_compatible",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "htdong/Wan-Alpha_ComfyUI",
+    "task": "text-to-video",
+    "downloads": 918,
+    "likes": 31,
+    "tags": "diffusers, text-to-video, arxiv:2509.24979, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apache-2.0, region:us",
+    "description": "[Paper Link](https://huggingface.co/papers/2509.24979)"
+  },
+  {
+    "id": "GilgameshYX/ForwardRenderer",
+    "task": "image-text-to-image",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "pytorch, image-text-to-image, dataset:GilgameshYX/WeatherSynthetic, base_model:stabilityai/stable-diffusion-3.5-medium, base_model:finetune:stabilityai/stable-diffusion-3.5-medium, license:apache-2.0, region:us",
+    "description": "This repository contains the base and LoRA weights for the Weather-conditioned Forward Renderer, as presented in IntrinsicWeather: Controllable Weather Editing in Intrinsic Space."
+  },
+  {
+    "id": "infly/inf-retriever-v1-pro",
+    "task": "reinforcement-learning",
+    "downloads": 341,
+    "likes": 6,
+    "tags": "safetensors, qwen2, retrieval, query-rewriting, reinforcement-learning, custom_code, en, base_model:Qwen/Qwen2.5-7B-Instruct",
+    "description": "**inf-retriever-v1-pro** is a specialized retrieval component of the **INF-X-Retriever** framework, designed to distill the core retrieval intent from complex, verbose, or reasoning-intensive queries."
+  },
+  {
+    "id": "google/owlv2-large-patch14",
+    "task": "zero-shot-object-detection",
+    "downloads": 711,
+    "likes": 9,
+    "tags": "transformers, pytorch, safetensors, owlv2, zero-shot-object-detection, vision, arxiv:2306.09683, license:apache-2.0",
+    "description": "The OWLv2 model (short for Open-World Localization) was proposed in [Scaling Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.09683) by Matthias Minderer, Alexey Gritsenko, Neil Houlsby. O"
+  },
+  {
+    "id": "lllyasviel/control_v11p_sd15_canny",
+    "task": "image-to-image",
+    "downloads": 14809,
+    "likes": 60,
+    "tags": "diffusers, safetensors, art, controlnet, stable-diffusion, controlnet-v1-1, image-to-image, arxiv:2302.05543",
+    "description": "**Controlnet v1.1** is the successor model of [Controlnet v1.0](https://huggingface.co/lllyasviel/sd-controlnet-canny)"
+  },
+  {
+    "id": "AXERA-TECH/Speech-Translation.axera",
+    "task": "audio-to-audio",
+    "downloads": 103,
+    "likes": 1,
+    "tags": "onnx, VAD, ASR, Translation, TTS, audio-to-audio, en, zh",
+    "description": "speech translation demo on Axera"
+  },
+  {
+    "id": "facebook/dinov2-base",
+    "task": "image-feature-extraction",
+    "downloads": 1522086,
+    "likes": 176,
+    "tags": "transformers, pytorch, safetensors, dinov2, image-feature-extraction, dino, vision, arxiv:2304.07193",
+    "description": "Vision Transformer (ViT) model trained using the DINOv2 method. It was introduced in the paper [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) by Oquab "
+  },
+  {
+    "id": "shay681/HeBERT_finetuned_Legal_Clauses",
+    "task": "question-answering",
+    "downloads": 1044,
+    "likes": 0,
+    "tags": "safetensors, bert, question-answering, he, dataset:LevMuchnik/SupremeCourtOfIsrael, base_model:avichr/heBERT, base_model:finetune:avichr/heBERT, region:us",
+    "description": "This model fine-tunes [avichr/heBERT](https://huggingface.co/avichr/heBERT) model on [LevMuchnik/SupremeCourtOfIsrael](https://huggingface.co/datasets/LevMuchnik/SupremeCourtOfIsrael) dataset."
+  },
+  {
+    "id": "openai/clip-vit-large-patch14",
+    "task": "zero-shot-image-classification",
+    "downloads": 24244530,
+    "likes": 1991,
+    "tags": "transformers, pytorch, tf, jax, safetensors, clip, zero-shot-image-classification, vision",
+    "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found [here](https://github.com/openai/CLIP/blob/main/model-card.md)."
+  },
+  {
+    "id": "C2001ljy/tapas_sqa_cqa_all",
+    "task": "table-question-answering",
+    "downloads": 3,
+    "likes": 0,
+    "tags": "transformers, safetensors, tapas, table-question-answering, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "stanfordmimi/MedVAE",
+    "task": "image-to-image",
+    "downloads": 4474,
+    "likes": 14,
+    "tags": "medvae, image-to-image, arxiv:2502.14753, license:mit, region:us",
+    "description": "The model was presented in the paper [MedVAE: Efficient Automated Interpretation of Medical Images with Large-Scale Generalizable Autoencoders](https://huggingface.co/papers/2502.14753)."
+  },
+  {
+    "id": "Wan-AI/Wan2.1-VACE-1.3B-diffusers",
+    "task": "image-to-video",
+    "downloads": 5758,
+    "likes": 29,
+    "tags": "diffusers, safetensors, video generation, video-to-video editing, refernce-to-video, image-to-video, en, zh",
+    "description": "\ud83d\udc9c <a href=\"https://wan.video\"><b>Wan</b></a> &nbsp&nbsp \uff5c &nbsp&nbsp \ud83d\udda5\ufe0f <a href=\"https://github.com/Wan-Video/Wan2.1\">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp\ud83e\udd17 <a href=\"https://huggingface.co/Wan-AI/\">Hugg"
+  },
+  {
+    "id": "fixie-ai/ultravox-v0_5-llama-3_2-1b",
+    "task": "audio-text-to-text",
+    "downloads": 788583,
+    "likes": 77,
+    "tags": "transformers, safetensors, ultravox, feature-extraction, audio-text-to-text, custom_code, ar, be",
+    "description": "Ultravox is a multimodal Speech LLM built around a pretrained [Llama3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B) and [whisper-large-v3-turbo](https://huggingface.co/openai/whisper-"
+  },
+  {
+    "id": "Systran/faster-whisper-small",
+    "task": "automatic-speech-recognition",
+    "downloads": 394270,
+    "likes": 30,
+    "tags": "ctranslate2, audio, automatic-speech-recognition, en, zh, de, es, ru",
+    "description": "This repository contains the conversion of [openai/whisper-small](https://huggingface.co/openai/whisper-small) to the [CTranslate2](https://github.com/OpenNMT/CTranslate2) model format."
+  },
+  {
+    "id": "Qwen/Qwen3-VL-Reranker-8B",
+    "task": "text-ranking",
+    "downloads": 133232,
+    "likes": 138,
+    "tags": "transformers, safetensors, qwen3_vl, image-text-to-text, sentence-transformers, multimodal rerank, text rerank, text-ranking",
+    "description": "The **Qwen3-VL-Embedding** and **Qwen3-VL-Reranker** model series are the latest additions to the Qwen family, built upon the recently open-sourced and powerful Qwen3-VL foundation model. Specifically"
+  },
+  {
+    "id": "facebook/mask2former-swin-tiny-coco-instance",
+    "task": "image-segmentation",
+    "downloads": 53307,
+    "likes": 14,
+    "tags": "transformers, pytorch, safetensors, mask2former, vision, image-segmentation, dataset:coco, arxiv:2112.01527",
+    "description": "Mask2Former model trained on COCO instance segmentation (tiny-sized version, Swin backbone). It was introduced in the paper [Masked-attention Mask Transformer for Universal Image Segmentation"
+  },
+  {
+    "id": "canopylabs/3b-de-ft-research_release",
+    "task": "text-to-speech",
+    "downloads": 82734,
+    "likes": 16,
+    "tags": "transformers, safetensors, llama, text-generation, text-to-speech, de, base_model:canopylabs/orpheus-3b-0.1-pretrained, base_model:finetune:canopylabs/orpheus-3b-0.1-pretrained",
+    "description": ""
+  },
+  {
+    "id": "jameslahm/yoloe-11m-seg",
+    "task": "zero-shot-object-detection",
+    "downloads": 1,
+    "likes": 0,
+    "tags": "safetensors, model_hub_mixin, pytorch_model_hub_mixin, zero-shot-object-detection, arxiv:2503.07465, license:agpl-3.0, region:us",
+    "description": "[YOLOE: Real-Time Seeing Anything](https://arxiv.org/abs/2503.07465)"
+  },
+  {
+    "id": "ibm-granite/granite-embedding-reranker-english-r2",
+    "task": "text-ranking",
+    "downloads": 3005,
+    "likes": 25,
+    "tags": "sentence-transformers, safetensors, modernbert, text-classification, granite, transformers, embeddings, mteb",
+    "description": "**Model Summary:** _granite-embedding-reranker-english-r2_ is a 149M parameter dense cross-encoder model from the Granite Embeddings collection that can be used to generate high quality text embedding"
+  },
+  {
+    "id": "pcoloc/autotrain-only-rssi-1813762559",
+    "task": "tabular-regression",
+    "downloads": 5,
+    "likes": 0,
+    "tags": "transformers, joblib, autotrain, tabular, regression, tabular-regression, dataset:pcoloc/autotrain-data-only-rssi, co2_eq_emissions",
+    "description": "- Problem type: Single Column Regression"
+  },
+  {
+    "id": "Bingsu/temp_vilt_vqa",
+    "task": "visual-question-answering",
+    "downloads": 83,
+    "likes": 0,
+    "tags": "transformers, pytorch, vilt, visual-question-answering, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "anuragshas/wav2vec2-large-xlsr-53-telugu",
+    "task": "automatic-speech-recognition",
+    "downloads": 473464,
+    "likes": 5,
+    "tags": "transformers, pytorch, jax, wav2vec2, automatic-speech-recognition, audio, speech, xlsr-fine-tuning-week",
+    "description": "Fine-tuned [facebook/wav2vec2-large-xlsr-53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) on Telugu using the [OpenSLR SLR66](http://openslr.org/66/) dataset."
+  },
+  {
+    "id": "laion/clap-htsat-unfused",
+    "task": "feature-extraction",
+    "downloads": 624695,
+    "likes": 71,
+    "tags": "transformers, pytorch, clap, feature-extraction, arxiv:2211.06687, license:apache-2.0, endpoints_compatible, deploy:azure",
+    "description": "Model card for CLAP: Contrastive Language-Audio Pretraining"
+  },
+  {
+    "id": "alibaba-damo/mgp-str-base",
+    "task": "image-to-text",
+    "downloads": 111073,
+    "likes": 65,
+    "tags": "transformers, pytorch, safetensors, mgp-str, image-to-text, arxiv:2209.03592, endpoints_compatible, region:us",
+    "description": "MGP-STR base-sized model is trained on MJSynth and SynthText. It was introduced in the paper [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/abs/2209.03592) and first relea"
+  },
+  {
+    "id": "nvidia/nemotron-colembed-vl-4b-v2",
+    "task": "visual-document-retrieval",
+    "downloads": 40283,
+    "likes": 36,
+    "tags": "transformers, safetensors, qwen3_vl_nemotron_embed, feature-extraction, text, image, vidore, colpali",
+    "description": "\ud83e\udd17 <a href=\"https://huggingface.co/nvidia/nemotron-colembed-vl-8b-v2\">8B</a> | &nbsp&nbsp \ud83e\udd17 <a href=\"https://huggingface.co/nvidia/nemotron-colembed-vl-4b-v2\">4B</a> | &nbsp&nbsp \ud83e\udd17 <a href=\"https://hug"
+  },
+  {
+    "id": "google/siglip2-so400m-patch14-224",
+    "task": "zero-shot-image-classification",
+    "downloads": 101098,
+    "likes": 3,
+    "tags": "transformers, safetensors, siglip, vision, zero-shot-image-classification, arxiv:2502.14786, arxiv:2303.15343, arxiv:2209.06794",
+    "description": "[SigLIP 2](https://huggingface.co/papers/2502.14786) extends the pretraining objective of"
+  },
+  {
+    "id": "mradermacher/TreeVGR-7B-CI-GGUF",
+    "task": "visual-question-answering",
+    "downloads": 201,
+    "likes": 1,
+    "tags": "transformers, gguf, visual-question-answering, visual-grounding, visual-reasoning, qwen, en, dataset:HaochenWang/TreeBench",
+    "description": "static quants of https://huggingface.co/HaochenWang/TreeVGR-7B-CI"
+  },
+  {
+    "id": "shaina/covid_qa_distillBert",
+    "task": "question-answering",
+    "downloads": 6767,
+    "likes": 0,
+    "tags": "transformers, pytorch, tensorboard, distilbert, question-answering, generated_from_trainer, dataset:covid_qa_deepset, license:apache-2.0",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "antgroup/HumanSense_Omni_Reasoning",
+    "task": "video-text-to-text",
+    "downloads": 159,
+    "likes": 6,
+    "tags": "transformers, safetensors, qwen2_5_omni, text-to-audio, video-text-to-text, en, dataset:antgroup/HumanSense_Benchmark, arxiv:2508.10576",
+    "description": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+  },
+  {
+    "id": "aufklarer/WeSpeaker-ResNet34-LM-CoreML",
+    "task": "audio-classification",
+    "downloads": 1983,
+    "likes": 0,
+    "tags": "wespeaker-resnet34-lm-coreml, coreml, speaker-embedding, speaker-verification, speaker-diarization, wespeaker, neural-engine, audio-classification",
+    "description": "CoreML conversion of [WeSpeaker ResNet34-LM](https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM) for Apple Neural Engine."
+  },
+  {
+    "id": "okestro-ai-lab/SYMPHONY-ASR",
+    "task": "audio-text-to-text",
+    "downloads": 51,
+    "likes": 2,
+    "tags": "transformers, safetensors, symphony, feature-extraction, audio, text-generation, audio-text-to-text, custom_code",
+    "description": "* SYMPHONY-ASR is an **Automatic Speech Recognition (ASR)-specialized model** designed for efficient and accurate speech-to-text transcription."
+  },
+  {
+    "id": "timm/ViT-SO400M-14-SigLIP2",
+    "task": "zero-shot-image-classification",
+    "downloads": 19139,
+    "likes": 1,
+    "tags": "open_clip, safetensors, siglip, siglip2, vision, zero-shot-image-classification, dataset:webli, arxiv:2502.14786",
+    "description": "A SigLIP 2 Vision-Lanuage model trained on WebLI."
+  },
+  {
+    "id": "qwertier/ddpm-celebahq-finetuned-butterflies-2epochs",
+    "task": "unconditional-image-generation",
+    "downloads": 30,
+    "likes": 0,
+    "tags": "diffusers, safetensors, pytorch, unconditional-image-generation, diffusion-models-class, license:mit, diffusers:DDPMPipeline, region:us",
+    "description": "from diffusers import DDPMPipeline"
+  },
+  {
+    "id": "ProsusAI/finbert",
+    "task": "text-classification",
+    "downloads": 4557287,
+    "likes": 1134,
+    "tags": "transformers, pytorch, tf, jax, bert, text-classification, financial-sentiment-analysis, sentiment-analysis",
+    "description": "FinBERT is a pre-trained NLP model to analyze sentiment of financial text. It is built by further training the BERT language model in the finance domain, using a large financial corpus and thereby fin"
+  },
+  {
+    "id": "ianpan/bone-age-crop",
+    "task": "object-detection",
+    "downloads": 15741,
+    "likes": 1,
+    "tags": "transformers, safetensors, bone_age_crop, feature-extraction, radiology, medical_imaging, bone_age, x_ray",
+    "description": "This model crops hand radiographs to better standardize the image input for bone age models."
+  },
+  {
+    "id": "google/siglip-so400m-patch14-384",
+    "task": "zero-shot-image-classification",
+    "downloads": 2139556,
+    "likes": 669,
+    "tags": "transformers, safetensors, siglip, zero-shot-image-classification, vision, arxiv:2303.15343, arxiv:2305.13035, arxiv:2209.06794",
+    "description": "SigLIP model pre-trained on WebLi at resolution 384x384. It was introduced in the paper [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) by Zhai et al. and first releas"
+  },
+  {
+    "id": "DAMO-NLP-SG/VideoLLaMA2.1-7B-16F",
+    "task": "video-text-to-text",
+    "downloads": 10151,
+    "likes": 10,
+    "tags": "transformers, safetensors, videollama2_qwen2, text-generation, large video-language model, video-text-to-text, en, dataset:OpenGVLab/VideoChat2-IT",
+    "description": "* **[2024.10.15]**  Release checkpoints of [VideoLLaMA2.1-7B-16F-Base](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2.1-7B-16F-Base) and [VideoLLaMA2.1-7B-16F](https://huggingface.co/DAMO-NLP-SG/Video"
+  },
+  {
+    "id": "cross-encoder/qnli-distilroberta-base",
+    "task": "text-ranking",
+    "downloads": 6329,
+    "likes": 0,
+    "tags": "sentence-transformers, pytorch, jax, onnx, safetensors, openvino, roberta, text-classification",
+    "description": "This model was trained using [SentenceTransformers](https://sbert.net) [Cross-Encoder](https://www.sbert.net/examples/applications/cross-encoder/README.html) class."
+  },
+  {
+    "id": "dylanebert/iComMa",
+    "task": "text-to-3d",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "text-to-3d, arxiv:2312.09031, region:us",
+    "description": "Weights for [iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching](https://huggingface.co/papers/2312.09031)"
+  },
+  {
+    "id": "AWeirdDev/human-disease-prediction",
+    "task": "tabular-classification",
+    "downloads": 33,
+    "likes": 2,
+    "tags": "sklearn, joblib, tabular-classification, license:mit, model-index, region:us",
+    "description": "Try it on [\ud83e\udd17 Spaces](https://huggingface.co/spaces/AWeirdDev/human-disease-prediction)"
+  },
+  {
+    "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+    "task": "token-classification",
+    "downloads": 93590,
+    "likes": 50,
+    "tags": "transformers, safetensors, bert, token-classification, arxiv:2403.12968, license:apache-2.0, endpoints_compatible, region:us",
+    "description": "This model was introduced in the paper [**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression** (Pan et al, 2024)](https://arxiv.org/abs/2403.12968). It is a [BE"
+  },
+  {
+    "id": "OrcaDB/gte-base-en-v1.5",
+    "task": "sentence-similarity",
+    "downloads": 347077,
+    "likes": 0,
+    "tags": "transformers, safetensors, new, feature-extraction, sentence-transformers, gte, mteb, transformers.js",
+    "description": "We introduce `gte-v1.5` series, upgraded `gte` embeddings that support the context length of up to **8192**, while further enhancing model performance."
+  },
+  {
+    "id": "vismatch/omniglue",
+    "task": "keypoint-detection",
+    "downloads": 20,
+    "likes": 0,
+    "tags": "vismatch, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/vismatch"
+  },
+  {
+    "id": "vantagewithai/TurboWan2.2-I2V-A14B-720P-ComfyUI-GGUF",
+    "task": "image-to-video",
+    "downloads": 1015,
+    "likes": 1,
+    "tags": "wan2.2, gguf, image-to-video, diffusion, video-generation, turbodiffusion, arxiv:2512.16093, arxiv:2509.24006",
+    "description": "**GGUF version of TurboWan2.2-I2V-A14B-720P for ComfyUI.**"
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-eu-es",
+    "task": "translation",
+    "downloads": 53293,
+    "likes": 1,
+    "tags": "transformers, pytorch, tf, marian, text2text-generation, translation, eu, es",
+    "description": "*  OPUS readme: [eus-spa](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/eus-spa/README.md)"
+  },
+  {
+    "id": "zhihan1996/DNA_bert_6",
+    "task": "fill-mask",
+    "downloads": 113814,
+    "likes": 23,
+    "tags": "transformers, pytorch, bert, fill-mask, biology, genomics, custom_code, endpoints_compatible",
+    "description": ""
+  },
+  {
+    "id": "hajar001/stylegan2-ffhq-128",
+    "task": "unconditional-image-generation",
+    "downloads": 75,
+    "likes": 0,
+    "tags": "stylegan-pytorch, safetensors, gan, image-generation, model_hub_mixin, pytorch_model_hub_mixin, stylegan, stylegan2",
+    "description": "This model has been pushed to the Hub using the [PytorchModelHubMixin](https://huggingface.co/docs/huggingface_hub/package_reference/mixins#huggingface_hub.PyTorchModelHubMixin) integration:"
+  },
+  {
+    "id": "cross-encoder/nli-deberta-v3-base",
+    "task": "zero-shot-classification",
+    "downloads": 176084,
+    "likes": 41,
+    "tags": "sentence-transformers, pytorch, onnx, safetensors, deberta-v2, text-classification, transformers, zero-shot-classification",
+    "description": "This model was trained using [SentenceTransformers](https://sbert.net) [Cross-Encoder](https://www.sbert.net/examples/applications/cross-encoder/README.html) class. This model is based on [microsoft/d"
+  },
+  {
+    "id": "Blessing988/videomae-base-finetuned-ucf101-subset_500_epochs",
+    "task": "video-classification",
+    "downloads": 72,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, videomae, video-classification, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "Zarcend/AFFIRM-FineTune-25",
+    "task": "table-question-answering",
+    "downloads": 3,
+    "likes": 0,
+    "tags": "transformers, pytorch, safetensors, tapas, table-question-answering, license:mit, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "Intel/dpt-beit-large-512",
+    "task": "depth-estimation",
+    "downloads": 223,
+    "likes": 9,
+    "tags": "transformers, safetensors, dpt, depth-estimation, vision, arxiv:2103.13413, arxiv:2307.14460, license:mit",
+    "description": "Monocular depth estimation, aiming to infer detailed depth from a single image or camera view, finds applications in fields like generative AI, 3D reconstruction, and autonomous driving. However, deri"
+  },
+  {
+    "id": "mradermacher/Vero-Qwen25-7B-i1-GGUF",
+    "task": "reinforcement-learning",
+    "downloads": 5054,
+    "likes": 0,
+    "tags": "transformers, gguf, vero, vision-language-model, multimodal, visual-reasoning, reinforcement-learning, en",
+    "description": "weighted/imatrix quants of https://huggingface.co/zlab-princeton/Vero-Qwen25-7B"
+  },
+  {
+    "id": "Raffix/routing_module_action_question_conversation_move_hack_debertav3_nli",
+    "task": "zero-shot-classification",
+    "downloads": 6329,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, deberta-v2, text-classification, zero-shot-classification, en, license:mit",
+    "description": ""
+  },
+  {
+    "id": "QuantFactory/TableLLM-13b-GGUF",
+    "task": "table-question-answering",
+    "downloads": 620,
+    "likes": 5,
+    "tags": "transformers, gguf, table-question-answering, arxiv:2403.19318, license:llama2, endpoints_compatible, region:us",
+    "description": "This is quantized version of [RUCKBReasoning/TableLLM-13b](https://huggingface.co/RUCKBReasoning/TableLLM-13b) created using llama.cpp"
+  },
+  {
+    "id": "Neleac/SpaceTimeGPT",
+    "task": "video-text-to-text",
+    "downloads": 74,
+    "likes": 32,
+    "tags": "transformers, pytorch, vision-encoder-decoder, image-text-to-text, video-captioning, video-text-to-text, en, dataset:HuggingFaceM4/vatex",
+    "description": "SpaceTimeGPT is a video description generation model capable of spatial and temporal reasoning. Given a video, eight frames are sampled and analyzed by the model. The output is a sentence description "
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-ChemicalDetect-ModernMed-149M",
+    "task": "token-classification",
+    "downloads": 190230,
+    "likes": 0,
+    "tags": "transformers, safetensors, modernbert, token-classification, named-entity-recognition, biomedical-nlp, chemical-entity-recognition, drug-discovery",
+    "description": "**Specialized model for Chemical Entity Recognition - Identifies chemical compounds and substances in biomedical literature**"
+  },
+  {
+    "id": "Amos11/ddpm-celebahq-finetuned-butterflies-2epochs",
+    "task": "unconditional-image-generation",
+    "downloads": 33,
+    "likes": 0,
+    "tags": "diffusers, safetensors, pytorch, unconditional-image-generation, diffusion-models-class, license:mit, diffusers:DDPMPipeline, region:us",
+    "description": "from diffusers import DDPMPipeline"
+  },
+  {
+    "id": "zai-org/GLM-OCR",
+    "task": "image-to-text",
+    "downloads": 6864443,
+    "likes": 1618,
+    "tags": "transformers, safetensors, glm_ocr, image-text-to-text, image-to-text, zh, en, fr",
+    "description": "\ud83d\udc4b Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/wechat.jpg\" target=\"_blank\">WeChat</a> and <a href=\"https://discord.gg/QR7SARHRxK\" target=\"_blank\">Disco"
+  },
+  {
+    "id": "timm/swin_base_patch4_window7_224.ms_in22k",
+    "task": "image-classification",
+    "downloads": 183005,
+    "likes": 1,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-22k, arxiv:2103.14030, license:mit",
+    "description": "A Swin Transformer image classification model. Pretrained on ImageNet-22k by paper authors."
+  },
+  {
+    "id": "jingheya/lotus-depth-g-v2-0-disparity",
+    "task": "depth-estimation",
+    "downloads": 413,
+    "likes": 7,
+    "tags": "diffusers, safetensors, depth-estimation, arxiv:2409.18124, license:apache-2.0, diffusers:DirectDiffusionY0Pipeline, region:us",
+    "description": "- This model belongs to the family of official Lotus models."
+  },
+  {
+    "id": "timm/resnet50.a1_in1k",
+    "task": "image-classification",
+    "downloads": 1626720,
+    "likes": 41,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, arxiv:2110.00476, arxiv:1512.03385, license:apache-2.0",
+    "description": "A ResNet-B image classification model."
+  },
+  {
+    "id": "professorf/gemma-4-26B-A4B-it-gguf",
+    "task": "any-to-any",
+    "downloads": 1769,
+    "likes": 1,
+    "tags": "transformers, gguf, any-to-any, license:apache-2.0, endpoints_compatible, region:us, conversational",
+    "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release "
+  },
+  {
+    "id": "unslothai/vram-96",
+    "task": "feature-extraction",
+    "downloads": 151275,
+    "likes": 0,
+    "tags": "transformers, safetensors, llama, feature-extraction, arxiv:1910.09700, endpoints_compatible, region:us, deploy:azure",
+    "description": "This is the model card of a \ud83e\udd17 transformers model that has been pushed on the Hub. This model card has been automatically generated."
+  },
+  {
+    "id": "cmarkea/dit-base-layout-detection",
+    "task": "image-segmentation",
+    "downloads": 3040,
+    "likes": 6,
+    "tags": "transformers, safetensors, beit, image-segmentation, dataset:ds4sd/DocLayNet, license:apache-2.0, endpoints_compatible, region:us",
+    "description": "We present the model cmarkea/dit-base-layout-detection, which allows extracting different layouts (Text, Picture, Caption, Footnote, etc.) from an image of a document."
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-DiseaseDetect-SuperClinical-434M",
+    "task": "token-classification",
+    "downloads": 106322,
+    "likes": 6,
+    "tags": "transformers, safetensors, deberta-v2, token-classification, named-entity-recognition, biomedical-nlp, disease-entity-recognition, medical-diagnosis",
+    "description": "**Specialized model for Disease Entity Recognition - Disease entities from the BC5CDR dataset**"
+  },
+  {
+    "id": "prithivMLmods/Qwen3-VL-4B-Instruct-Unredacted-MAX-GGUF",
+    "task": "image-text-to-image",
+    "downloads": 2587,
+    "likes": 7,
+    "tags": "transformers, gguf, qwen3_vl, text-generation-inference, uncensored, abliterated, unfiltered, unredacted",
+    "description": "> Qwen3-VL-4B-Instruct-Unredacted-MAX is a sophisticated and unredacted evolution of the original Qwen3-VL-4B-Instruct model, meticulously fine-tuned using advanced abliterated training techniques des"
+  },
+  {
+    "id": "google/ddpm-ema-church-256",
+    "task": "unconditional-image-generation",
+    "downloads": 523,
+    "likes": 14,
+    "tags": "diffusers, pytorch, unconditional-image-generation, arxiv:2006.11239, license:apache-2.0, diffusers:DDPMPipeline, region:us",
+    "description": "**Paper**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)"
+  },
+  {
+    "id": "BAAI/bge-base-en",
+    "task": "feature-extraction",
+    "downloads": 156975,
+    "likes": 61,
+    "tags": "transformers, pytorch, onnx, safetensors, bert, feature-extraction, mteb, en",
+    "description": "**Recommend switching to newest [BAAI/bge-base-en-v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5), which has more reasonable similarity distribution and same method of usage.**"
+  },
+  {
+    "id": "EvertonSoares/LTX2-Rapid-Merges",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "ltx2, t2v, i2v, image-text-to-video, base_model:Lightricks/LTX-2, base_model:finetune:Lightricks/LTX-2, license:other, region:us",
+    "description": "**I'm winding down maintaining these models. I recommend checking out the [merging script](https://huggingface.co/Phr00t/LTX2-Rapid-Merges/blob/main/MergingScript/fancy-apply.py) to create your own, a"
+  },
+  {
+    "id": "mispeech/midashenglm-7b-0804-bf16",
+    "task": "audio-text-to-text",
+    "downloads": 164,
+    "likes": 0,
+    "tags": "safetensors, midashenglm, multimodal, audio-language-model, audio, audio-text-to-text, custom_code, en",
+    "description": "The bfloat16 (bf16) weights for [mispeech/midashenglm-7b-0804-fp32](https://huggingface.co/mispeech/midashenglm-7b-0804-fp32)."
+  },
+  {
+    "id": "AXERA-TECH/SmolVLM2-500M-Video-Instruct-python",
+    "task": "visual-question-answering",
+    "downloads": 55,
+    "likes": 2,
+    "tags": "HuggingFaceTB, SmolVLM2-500M-Video-Instruct, visual-question-answering, en, zh, base_model:HuggingFaceTB/SmolVLM2-500M-Video-Instruct, base_model:finetune:HuggingFaceTB/SmolVLM2-500M-Video-Instruct, license:bsd-3-clause",
+    "description": "This version of SmolVLM2-500M-Video-Instruct has been converted to run on the Axera NPU using **w8a16** quantization."
+  },
+  {
+    "id": "JusperLee/TIGER-speech-tiny",
+    "task": "audio-to-audio",
+    "downloads": 108,
+    "likes": 1,
+    "tags": "safetensors, audio, tiny, audio-to-audio, en, arxiv:2410.01469, base_model:JusperLee/TIGER-speech, base_model:finetune:JusperLee/TIGER-speech",
+    "description": "> TIGER is a lightweight model for speech separation which effectively extracts key acoustic features through frequency band-split, multi-scale and full-frequency-frame modeling."
+  },
+  {
+    "id": "mistralai/Voxtral-4B-TTS-2603",
+    "task": "text-to-speech",
+    "downloads": 7524,
+    "likes": 743,
+    "tags": "vllm, mistral-common, text-to-speech, en, fr, es, pt, it",
+    "description": "Voxtral TTS is a frontier, open-weights text-to-speech model that\u2019s fast, instantly adaptable, and produces lifelike speech for voice agents. The model is released with BF16 weights and a set of refer"
+  },
+  {
+    "id": "SnJake/Sapsan-VFI",
+    "task": "video-to-video",
+    "downloads": 5,
+    "likes": 0,
+    "tags": "pytorch, computer-vision, video, video-frame-interpolation, vfi, video-to-video, comfyui, license:mit",
+    "description": "Sapsan-VFI is a **x2 frame interpolation** model for video. It inserts a single middle frame between every input pair, effectively doubling the FPS."
+  },
+  {
+    "id": "depth-anything/Depth-Anything-V2-Base",
+    "task": "depth-estimation",
+    "downloads": 7598,
+    "likes": 19,
+    "tags": "depth-anything-v2, depth, relative depth, depth-estimation, en, arxiv:2406.09414, license:cc-by-nc-4.0, region:us",
+    "description": "Depth Anything V2 is trained from 595K synthetic labeled images and 62M+ real unlabeled images, providing the most capable monocular depth estimation (MDE) model with the following features:"
+  },
+  {
+    "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "task": "text-generation",
+    "downloads": 1149847,
+    "likes": 2000,
+    "tags": "transformers, safetensors, qwen2, text-generation, code, codeqwen, chat, qwen",
+    "description": "Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen). As of now, Qwen2.5-Coder has covered six mainstream model sizes, 0.5, 1.5, 3, 7, 14, 32 bil"
+  },
+  {
+    "id": "google-bert/bert-large-uncased",
+    "task": "fill-mask",
+    "downloads": 873888,
+    "likes": 147,
+    "tags": "transformers, pytorch, tf, jax, rust, safetensors, bert, fill-mask",
+    "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in"
+  },
+  {
+    "id": "cnicu/t5-small-booksum",
+    "task": "summarization",
+    "downloads": 15687,
+    "likes": 9,
+    "tags": "transformers, pytorch, t5, text2text-generation, summarization, summary, dataset:kmfoda/booksum, license:mit",
+    "description": ""
+  },
+  {
+    "id": "jayn7/HunyuanVideo-1.5_T2V_480p-GGUF",
+    "task": "text-to-video",
+    "downloads": 961,
+    "likes": 6,
+    "tags": "gguf, text-to-video, video-generation, base_model:tencent/HunyuanVideo-1.5, base_model:quantized:tencent/HunyuanVideo-1.5, region:us",
+    "description": "Quantized GGUF versions of the [HunyuanVideo-1.5-T2V-480p](https://huggingface.co/tencent/HunyuanVideo-1.5) by Tencent."
+  },
+  {
+    "id": "Mungert/LFM2.5-Audio-1.5B-GGUF",
+    "task": "audio-to-audio",
+    "downloads": 216,
+    "likes": 0,
+    "tags": "liquid-audio, gguf, liquid, lfm2, audio, lfm2-audio, speech-to-speech, audio-to-audio",
+    "description": "This model was generated using [llama.cpp](https://github.com/ggerganov/llama.cpp) at commit [`05fa625ea`](https://github.com/ggerganov/llama.cpp/commit/05fa625eac5bbdbe88b43f857156c35501421d6e)."
+  },
+  {
+    "id": "calcuis/hy3d-gguf",
+    "task": "image-to-3d",
+    "downloads": 461,
+    "likes": 29,
+    "tags": "gguf, gguf-node, image-to-3d, en, base_model:tencent/Hunyuan3D-2, base_model:quantized:tencent/Hunyuan3D-2, license:other, region:us",
+    "description": "- drag **gguf** to > `./ComfyUI/models/diffusion_models`"
+  },
+  {
+    "id": "mradermacher/Medra4b-vis-ep0.4-GGUF",
+    "task": "summarization",
+    "downloads": 414,
+    "likes": 0,
+    "tags": "transformers, gguf, text-generation, medical-ai, summarization, diagnostic-reasoning, gemma-3, fine-tuned",
+    "description": "static quants of https://huggingface.co/drwlf/Medra4b-vis-ep0.4"
+  },
+  {
+    "id": "allegro/plt5-small",
+    "task": "translation",
+    "downloads": 6505,
+    "likes": 2,
+    "tags": "transformers, pytorch, t5, text2text-generation, T5, translation, summarization, question answering",
+    "description": "**plT5** models are T5-based language models trained on Polish corpora. The models were optimized for the original T5 denoising target."
+  },
+  {
+    "id": "huggingnft/mini-mutants",
+    "task": "unconditional-image-generation",
+    "downloads": 36,
+    "likes": 1,
+    "tags": "transformers, huggingnft, nft, huggan, gan, image, images, unconditional-image-generation",
+    "description": "All rights belong to their owners. Models and datasets can be removed from the site at the request of the copyright"
+  },
+  {
+    "id": "hfl/chinese-macbert-large",
+    "task": "fill-mask",
+    "downloads": 53342,
+    "likes": 52,
+    "tags": "transformers, pytorch, tf, jax, bert, fill-mask, zh, arxiv:2004.13922",
+    "description": "This repository contains the resources in our paper **\"Revisiting Pre-trained Models for Chinese Natural Language Processing\"**, which will be published in \"[Findings of EMNLP](https://2020.emnlp.org)"
+  },
+  {
+    "id": "google/siglip2-base-patch16-384",
+    "task": "zero-shot-image-classification",
+    "downloads": 103575,
+    "likes": 9,
+    "tags": "transformers, safetensors, siglip, vision, zero-shot-image-classification, arxiv:2502.14786, arxiv:2303.15343, arxiv:2209.06794",
+    "description": "[SigLIP 2](https://huggingface.co/papers/2502.14786) extends the pretraining objective of"
+  },
+  {
+    "id": "tiiuae/Falcon-Perception",
+    "task": "mask-generation",
+    "downloads": 10518,
+    "likes": 106,
+    "tags": "transformers, safetensors, falcon_perception, text-generation, falcon, segmentation, vision-language, open-vocabulary",
+    "description": "Falcon Perception is a 0.6B parameter early-fusion vision-language model for open-vocabulary grounding and instance segmentation. Given an image and a natural language query, it returns zero, one, or "
+  },
+  {
+    "id": "key772003/Wan2.2-Animate-14B-PolarQuant-Q5",
+    "task": "video-to-video",
+    "downloads": 9,
+    "likes": 0,
+    "tags": "onnx, safetensors, hlwq, video-to-video, arxiv:2502.02617, arxiv:2603.29078, arxiv:2503.20314, base_model:Wan-AI/Wan2.2-I2V-A14B",
+    "description": "> **Naming notice (2026-04-10).** The \"PolarQuant\" technique used in this model is being rebranded to **HLWQ (Hadamard-Lloyd Weight Quantization)**. The change is only the name; the algorithm and the "
+  },
+  {
+    "id": "city96/Wan2.1-Fun-14B-Control-gguf",
+    "task": "text-to-video",
+    "downloads": 671,
+    "likes": 20,
+    "tags": "gguf, text-to-video, video, video-generation, en, zh, base_model:alibaba-pai/Wan2.1-Fun-14B-Control, base_model:quantized:alibaba-pai/Wan2.1-Fun-14B-Control",
+    "description": "This is a direct GGUF conversion of [alibaba-pai/Wan2.1-Fun-14B-Control](https://huggingface.co/alibaba-pai/Wan2.1-Fun-14B-Control)"
+  },
+  {
+    "id": "JorisCos/ConvTasNet_Libri2Mix_sepclean_16k",
+    "task": "audio-to-audio",
+    "downloads": 1492,
+    "likes": 4,
+    "tags": "asteroid, pytorch, audio, ConvTasNet, audio-to-audio, dataset:Libri2Mix, dataset:sep_clean, license:cc-by-sa-4.0",
+    "description": "This model was trained by Joris Cosentino using the librimix recipe in [Asteroid](https://github.com/asteroid-team/asteroid)."
+  },
+  {
+    "id": "naver/DUSt3R_ViTLarge_BaseDecoder_512_linear",
+    "task": "image-to-3d",
+    "downloads": 371,
+    "likes": 0,
+    "tags": "dust3r, safetensors, pytorch_model_hub_mixin, model_hub_mixin, image-to-3d, arxiv:2312.14132, region:us",
+    "description": "title={DUSt3R: Geometric 3D Vision Made Easy},"
+  },
+  {
+    "id": "obsxrver/sam3",
+    "task": "mask-generation",
+    "downloads": 19,
+    "likes": 0,
+    "tags": "transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en, license:other",
+    "description": "> \u8b93\u6211\u5011\u4ee5\u6148\u5fc3\u5584\u5f85\u4e00\u5207\u8846\u751f\uff0c\u62d2\u7d55\u8089\u98df\u3001\u55ab\u7d20\u653e\u751f\uff0c\u963f\u5f4c\u9640\u4f5b \ud83d\udc9b <br/>"
+  },
+  {
+    "id": "Sharka/CIVQA_LayoutLMv3",
+    "task": "document-question-answering",
+    "downloads": 8,
+    "likes": 0,
+    "tags": "transformers, pytorch, layoutlmv3, document-question-answering, Document Question Answering, cs, dataset:fimu-docproc-research/CIVQA-TesseractOCR, license:mit",
+    "description": "This is a fine-tuned version of the [LayoutLMv3 model](https://huggingface.co/microsoft/layoutlmv3-base), which was trained on Czech Invoice Visual Question Answering (CIVQA) datasets containing invoi"
+  },
+  {
+    "id": "sspericorn/Llama-3.1-beginner-PEFT",
+    "task": "summarization",
+    "downloads": 306,
+    "likes": 2,
+    "tags": "transformers, gguf, llama, text-generation-inference, unsloth, summarization, en, dataset:abisee/cnn_dailymail",
+    "description": "- **Finetuned from model :** unsloth/meta-llama-3.1-8b-bnb-4bit"
+  },
+  {
+    "id": "facebook/sam-vit-large",
+    "task": "mask-generation",
+    "downloads": 26715,
+    "likes": 33,
+    "tags": "transformers, pytorch, tf, safetensors, sam, mask-generation, vision, arxiv:2304.02643",
+    "description": "1. [Model Details](#model-details)"
+  },
+  {
+    "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
+    "task": "question-answering",
+    "downloads": 362390,
+    "likes": 188,
+    "tags": "transformers, pytorch, tf, jax, safetensors, bert, question-answering, en",
+    "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in"
+  },
+  {
+    "id": "depth-anything/Depth-Anything-V2-Large-hf",
+    "task": "depth-estimation",
+    "downloads": 152219,
+    "likes": 30,
+    "tags": "transformers, safetensors, depth_anything, depth-estimation, depth, relative depth, arxiv:2406.09414, arxiv:2401.10891",
+    "description": "Depth Anything V2 is trained from 595K synthetic labeled images and 62M+ real unlabeled images, providing the most capable monocular depth estimation (MDE) model with the following features:"
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-GenomeDetect-ElectraMed-560M",
+    "task": "token-classification",
+    "downloads": 91793,
+    "likes": 0,
+    "tags": "transformers, safetensors, xlm-roberta, token-classification, named-entity-recognition, biomedical-nlp, gene-recognition, protein-recognition",
+    "description": "**Specialized model for Gene/Protein Entity Recognition - Gene and protein mentions**"
+  },
+  {
+    "id": "finiteautomata/bertweet-base-sentiment-analysis",
+    "task": "text-classification",
+    "downloads": 111809,
+    "likes": 192,
+    "tags": "transformers, pytorch, tf, roberta, text-classification, sentiment-analysis, en, arxiv:2106.09462",
+    "description": "Repository: [https://github.com/finiteautomata/pysentimiento/](https://github.com/finiteautomata/pysentimiento/)"
+  },
+  {
+    "id": "tiantiaf/wavlm-large-voice-quality",
+    "task": "audio-classification",
+    "downloads": 963,
+    "likes": 3,
+    "tags": "safetensors, model_hub_mixin, pytorch_model_hub_mixin, audio-classification, en, dataset:ajd12342/paraspeechcaps, arxiv:2505.14648, base_model:microsoft/wavlm-large",
+    "description": "This model includes the implementation of voice quality classification described in Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits (https://arxiv"
+  },
+  {
+    "id": "chuhac/BiomedCLIP-vit-bert-hf",
+    "task": "zero-shot-classification",
+    "downloads": 7157,
+    "likes": 8,
+    "tags": "transformers, pytorch, safetensors, clip, feature-extraction, zero-shot-classification, custom_code, en",
+    "description": "1. pure torch and huggingface-based implementation of the original microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224"
+  },
+  {
+    "id": "tiantiaf/voxlect-mandarin-cantonese-dialect-mms-lid-256",
+    "task": "audio-classification",
+    "downloads": 24576,
+    "likes": 1,
+    "tags": "transformers, safetensors, model_hub_mixin, pytorch_model_hub_mixin, speaker_dialect_classification, audio-classification, zh, dataset:mozilla-foundation/common_voice_11_0",
+    "description": "This model includes the implementation of Mandarin dialect and Cantonese classification described in <a href=\"https://arxiv.org/abs/2508.01691\"><strong>**Voxlect: A Speech Foundation Model Benchmark f"
+  },
+  {
+    "id": "Aisha-AI-Official/wan2.2-rough-sex-doggy-style",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 6,
+    "tags": "lora, nsfw, image-text-to-video, base_model:Wan-AI/Wan2.2-I2V-A14B-Diffusers, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B-Diffusers, region:us",
+    "description": "The scene start with a woman posing, then the scene cut to a side view in bedroom interior, one african black man and the same woman in a bed."
+  },
+  {
+    "id": "depth-anything/Depth-Anything-V2-Large",
+    "task": "depth-estimation",
+    "downloads": 98528,
+    "likes": 154,
+    "tags": "depth-anything-v2, depth, relative depth, depth-estimation, en, arxiv:2406.09414, license:cc-by-nc-4.0, region:us",
+    "description": "Depth Anything V2 is trained from 595K synthetic labeled images and 62M+ real unlabeled images, providing the most capable monocular depth estimation (MDE) model with the following features:"
+  },
+  {
+    "id": "guoyww/animatediff-motion-lora-tilt-up",
+    "task": "text-to-video",
+    "downloads": 1730,
+    "likes": 2,
+    "tags": "diffusers, safetensors, animatediff, text-to-video, region:us",
+    "description": "Motion LoRAs allow adding specific types of motion to your animations."
+  },
+  {
+    "id": "ditwoo/whisper-tiny-finetuned-gtzan",
+    "task": "audio-classification",
+    "downloads": 1568,
+    "likes": 0,
+    "tags": "transformers, pytorch, safetensors, whisper, audio-classification, generated_from_trainer, dataset:marsyas/gtzan, base_model:openai/whisper-tiny",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "dell-research-harvard/lt-wikidata-comp-en",
+    "task": "sentence-similarity",
+    "downloads": 521948,
+    "likes": 2,
+    "tags": "sentence-transformers, safetensors, mpnet, linktransformer, sentence-similarity, tabular-classification, en, arxiv:2309.00789",
+    "description": "This is a [LinkTransformer](https://linktransformer.github.io/) model. At its core this model this is a sentence transformer model [sentence-transformers](https://www.SBERT.net) model- it just wraps a"
+  },
+  {
+    "id": "unsloth/Qwen2.5-Omni-7B-GGUF",
+    "task": "any-to-any",
+    "downloads": 8905,
+    "likes": 64,
+    "tags": "transformers, gguf, qwen2_5_omni, multimodal, unsloth, any-to-any, en, arxiv:2503.20215",
+    "description": "Qwen2.5-Omni is an end-to-end multimodal model designed to perceive diverse modalities, including text, images, audio, and video, while simultaneously generating text and natural speech responses in a"
+  },
+  {
+    "id": "Ade26/tapas_test",
+    "task": "table-question-answering",
+    "downloads": 6,
+    "likes": 0,
+    "tags": "transformers, safetensors, tapas, table-question-answering, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "MansfieldPlumbing/Demucs_v4_TRT",
+    "task": "audio-to-audio",
+    "downloads": 160,
+    "likes": 2,
+    "tags": "tensorrt, onnx, audio, music-source-separation, demucs, htdemucs, stem-separation, windows",
+    "description": "**HTDemucs 6-stem, exported to a single-graph ONNX checkpoint and compiled to TensorRT for native Windows inference.**"
+  },
+  {
+    "id": "MikhailKuz/tmp",
+    "task": "document-question-answering",
+    "downloads": 45,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, layoutlmv2, document-question-answering, generated_from_trainer, base_model:microsoft/layoutlmv2-base-uncased, base_model:finetune:microsoft/layoutlmv2-base-uncased",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "kem000123/autotrain-model1-binary-class-1843363194",
+    "task": "tabular-classification",
+    "downloads": 4,
+    "likes": 0,
+    "tags": "transformers, joblib, autotrain, tabular, classification, tabular-classification, dataset:kem000123/autotrain-data-model1-binary-class, co2_eq_emissions",
+    "description": "- Problem type: Binary Classification"
+  },
+  {
+    "id": "paultltc/colmodernvbert_hf",
+    "task": "visual-document-retrieval",
+    "downloads": 345,
+    "likes": 0,
+    "tags": "colpali, safetensors, vidore-experimental, vidore, visual-document-retrieval, en, arxiv:2510.01149, license:mit",
+    "description": "This is the model card for `ColModernVBERT`, the late-interaction version of ModernVBERT that is fine-tuned for visual document retrieval tasks, our most performant model on this task."
+  },
+  {
+    "id": "apple/coreml-sam2.1-baseplus",
+    "task": "mask-generation",
+    "downloads": 41,
+    "likes": 3,
+    "tags": "coreml, mask-generation, arxiv:2408.00714, license:apache-2.0, region:us",
+    "description": "SAM 2 (Segment Anything in Images and Videos), is a collection of foundation models from FAIR that aim to solve promptable visual segmentation in images and videos. See the [SAM 2 paper](https://arxiv"
+  },
+  {
+    "id": "google/owlvit-large-patch14",
+    "task": "zero-shot-object-detection",
+    "downloads": 12700,
+    "likes": 29,
+    "tags": "transformers, pytorch, owlvit, zero-shot-object-detection, vision, arxiv:2205.06230, license:apache-2.0, region:us",
+    "description": "The OWL-ViT (short for Vision Transformer for Open-World Localization) was proposed in [Simple Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2205.06230) by Matthias "
+  },
+  {
+    "id": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
+    "task": "image-to-video",
+    "downloads": 10500,
+    "likes": 32,
+    "tags": "gguf, image-to-video, video-generation, base_model:lightx2v/Wan2.2-Distill-Models, base_model:quantized:lightx2v/Wan2.2-Distill-Models, region:us",
+    "description": "Quantized GGUF versions of the [Wan2.2 Distill Models](https://huggingface.co/lightx2v/Wan2.2-Distill-Models) by the LightX2V team."
+  },
+  {
+    "id": "typeform/mobilebert-uncased-mnli",
+    "task": "zero-shot-classification",
+    "downloads": 996,
+    "likes": 14,
+    "tags": "transformers, pytorch, safetensors, mobilebert, text-classification, zero-shot-classification, en, dataset:multi_nli",
+    "description": "This model is the Multi-Genre Natural Language Inference (MNLI) fine-turned version of the [uncased MobileBERT model](https://huggingface.co/google/mobilebert-uncased)."
+  },
+  {
+    "id": "vectara/hallucination_evaluation_model",
+    "task": "text-classification",
+    "downloads": 79558,
+    "likes": 348,
+    "tags": "transformers, safetensors, HHEMv2Config, text-classification, custom_code, en, arxiv:2205.12854, arxiv:2401.00396",
+    "description": "\ud83d\udc49 **[Launch Interactive Demo](https://huggingface.co/spaces/vectara/hhem-2.1-open-demo)** - No setup required, runs in your browser"
+  },
+  {
+    "id": "tencent/Hunyuan3D-2",
+    "task": "image-to-3d",
+    "downloads": 82666,
+    "likes": 1731,
+    "tags": "hunyuan3d-2, diffusers, safetensors, image-to-3d, text-to-3d, en, zh, arxiv:2501.12202",
+    "description": "[//]: # (  <a href=# target=\"_blank\"><img src=https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv height=22px></a>)"
+  },
+  {
+    "id": "deepset/bert-base-cased-squad2",
+    "task": "question-answering",
+    "downloads": 50182,
+    "likes": 21,
+    "tags": "transformers, pytorch, jax, safetensors, bert, question-answering, en, dataset:squad_v2",
+    "description": "This is a BERT base cased model trained on SQuAD v2"
+  },
+  {
+    "id": "AntonioTH/Layout-finetuned-fr-model-50instances20-100epochs-5e-05lr",
+    "task": "document-question-answering",
+    "downloads": 143,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, layoutlmv2, document-question-answering, generated_from_trainer, base_model:microsoft/layoutxlm-base, base_model:finetune:microsoft/layoutxlm-base",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+    "task": "text-generation",
+    "downloads": 1373513,
+    "likes": 98,
+    "tags": "transformers, safetensors, qwen2, text-generation, chat, conversational, en, arxiv:2309.00071",
+    "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qw"
+  },
+  {
+    "id": "openai/whisper-small",
+    "task": "automatic-speech-recognition",
+    "downloads": 1968161,
+    "likes": 548,
+    "tags": "transformers, pytorch, tf, jax, safetensors, whisper, automatic-speech-recognition, audio",
+    "description": "Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680k hours"
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-PathologyDetect-TinyMed-135M",
+    "task": "token-classification",
+    "downloads": 180493,
+    "likes": 0,
+    "tags": "transformers, safetensors, distilbert, token-classification, named-entity-recognition, biomedical-nlp, disease-entity-recognition, medical-diagnosis",
+    "description": "**Specialized model for Disease Entity Recognition - Disease entities from the NCBI dataset**"
+  },
+  {
+    "id": "Jgarritz/ultravox-v0_5-llama-3_1-8b",
+    "task": "audio-text-to-text",
+    "downloads": 18,
+    "likes": 0,
+    "tags": "transformers, safetensors, ultravox, feature-extraction, audio-text-to-text, custom_code, ar, be",
+    "description": "Ultravox is a multimodal Speech LLM built around a pretrained [Llama3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B) and [whisper-large-v3-turbo](https://huggingface.co/openai/whi"
+  },
+  {
+    "id": "nomic-ai/modernbert-embed-base",
+    "task": "sentence-similarity",
+    "downloads": 171362,
+    "likes": 228,
+    "tags": "sentence-transformers, onnx, safetensors, modernbert, feature-extraction, sentence-similarity, mteb, transformers.js",
+    "description": "ModernBERT Embed is an embedding model trained from [ModernBERT-base](https://huggingface.co/answerdotai/ModernBERT-base), bringing the new advances of ModernBERT to embeddings!"
+  },
+  {
+    "id": "city96/FLUX.1-dev-gguf",
+    "task": "text-to-image",
+    "downloads": 107359,
+    "likes": 1303,
+    "tags": "gguf, text-to-image, image-generation, flux, base_model:black-forest-labs/FLUX.1-dev, base_model:quantized:black-forest-labs/FLUX.1-dev, license:other, region:us",
+    "description": "This is a direct GGUF conversion of [black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main)"
+  },
+  {
+    "id": "neuphonic/neucodec",
+    "task": "audio-to-audio",
+    "downloads": 92364,
+    "likes": 103,
+    "tags": "pytorch, audio, speech, audio-to-audio, speech-language-models, dataset:amphion/Emilia-Dataset, dataset:facebook/multilingual_librispeech, dataset:CSTR-Edinburgh/vctk",
+    "description": "*Click the image above to see NeuCodec in action on Youtube!*"
+  },
+  {
+    "id": "akore/rtmw-m-256x192",
+    "task": "keypoint-detection",
+    "downloads": 88,
+    "likes": 0,
+    "tags": "safetensors, rtmw, pose-estimation, wholebody-pose, rtmpose, keypoint-detection, computer-vision, custom_code",
+    "description": "This is a Hugging Face-compatible port of **rtmw-m-256x192** from [OpenMMLab MMPose](https://github.com/open-mmlab/mmpose)."
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-fi-en",
+    "task": "translation",
+    "downloads": 29814,
+    "likes": 4,
+    "tags": "transformers, pytorch, tf, marian, text2text-generation, translation, fi, en",
+    "description": "*  OPUS readme: [fin-eng](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/fin-eng/README.md)"
+  },
+  {
+    "id": "deepseek-ai/DeepSeek-OCR",
+    "task": "image-text-to-text",
+    "downloads": 2024891,
+    "likes": 3212,
+    "tags": "transformers, safetensors, deepseek_vl_v2, feature-extraction, deepseek, vision-language, ocr, custom_code",
+    "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.9 + CUDA11.8\uff1a"
+  },
+  {
+    "id": "city96/Wan2.1-T2V-14B-gguf",
+    "task": "text-to-video",
+    "downloads": 26691,
+    "likes": 190,
+    "tags": "gguf, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:quantized:Wan-AI/Wan2.1-T2V-14B, license:apache-2.0, region:us",
+    "description": "This is a direct GGUF conversion of [Wan-AI/Wan2.1-T2V-14B](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B)"
+  },
+  {
+    "id": "rathi2023/owlvit-base-patch32_FT_cppe5",
+    "task": "zero-shot-object-detection",
+    "downloads": 11,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, owlvit, zero-shot-object-detection, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "openbmb/MiniCPM-o-4_5-gguf",
+    "task": "any-to-any",
+    "downloads": 14214,
+    "likes": 120,
+    "tags": "transformers, gguf, minicpm-o, minicpm-v, multimodal, full-duplex, any-to-any, arxiv:2408.01800",
+    "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone"
+  },
+  {
+    "id": "RioJune/AG-KD",
+    "task": "zero-shot-object-detection",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "transformers, safetensors, florence2, image-text-to-text, zero-shot-object-detection, custom_code, arxiv:2508.04572, arxiv:2503.03278",
+    "description": "**Knowledge to Sight (K2Sight)** is a novel framework designed for grounding abnormalities in medical images, where the goal is to localize clinical findings based on textual descriptions. Unlike gene"
+  },
+  {
+    "id": "Menoviar28/menov9",
+    "task": "image-text-to-image",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "art, image-text-to-image, aa, ae, license:openrail, region:us",
+    "description": ""
+  },
+  {
+    "id": "sentence-transformers/distiluse-base-multilingual-cased-v2",
+    "task": "sentence-similarity",
+    "downloads": 743504,
+    "likes": 208,
+    "tags": "sentence-transformers, pytorch, tf, onnx, safetensors, openvino, distilbert, feature-extraction",
+    "description": "This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 512 dimensional dense vector space and can be used for tasks like clustering or semantic search."
+  },
+  {
+    "id": "nomic-ai/nomic-embed-text-v1.5",
+    "task": "sentence-similarity",
+    "downloads": 11498265,
+    "likes": 797,
+    "tags": "sentence-transformers, onnx, safetensors, nomic_bert, feature-extraction, sentence-similarity, mteb, transformers",
+    "description": "[Blog](https://www.nomic.ai/blog/posts/nomic-embed-text-v1) | [Technical Report](https://arxiv.org/abs/2402.01613) | [AWS SageMaker](https://aws.amazon.com/marketplace/seller-profile?id=seller-tpqidcj"
+  },
+  {
+    "id": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
+    "task": "automatic-speech-recognition",
+    "downloads": 510874,
+    "likes": 3,
+    "tags": "transformers, pytorch, jax, wav2vec2, automatic-speech-recognition, audio, speech, xlsr-fine-tuning-week",
+    "description": "Fine-tuned [facebook/wav2vec2-large-xlsr-53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) on Greek using the train and validation splits of [Common Voice 6.1](https://huggingface.co/dataset"
+  },
+  {
+    "id": "MakiAi/LTX-2.3-GGUF",
+    "task": "image-to-video",
+    "downloads": 22038,
+    "likes": 0,
+    "tags": "ggml, gguf, image-to-video, unsloth, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+    "description": "This is a GGUF quantized version of [LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3). <br>"
+  },
+  {
+    "id": "timm/vit_tiny_patch16_224.augreg_in21k_ft_in1k",
+    "task": "image-classification",
+    "downloads": 280735,
+    "likes": 3,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, dataset:imagenet-21k, arxiv:2106.10270",
+    "description": "A Vision Transformer (ViT) image classification model. Trained on ImageNet-21k and fine-tuned on ImageNet-1k (with additional augmentation and regularization) in JAX by paper authors, ported to PyTorc"
+  },
+  {
+    "id": "QuantStack/Wan2.2-S2V-14B-GGUF",
+    "task": "text-to-video",
+    "downloads": 5268,
+    "likes": 74,
+    "tags": "gguf, s2v, text-to-video, base_model:Wan-AI/Wan2.2-S2V-14B, base_model:quantized:Wan-AI/Wan2.2-S2V-14B, license:apache-2.0, region:us",
+    "description": "This GGUF file is a direct conversion of [Wan-AI/Wan2.2-S2V-14B](https://huggingface.co/Wan-AI/Wan2.2-S2V-14B)"
+  },
+  {
+    "id": "fxmarty/pix2struct-tiny-random",
+    "task": "image-to-text",
+    "downloads": 1874,
+    "likes": 2,
+    "tags": "transformers, pytorch, pix2struct, image-text-to-text, image-to-text, license:mit, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "eenzeenee/t5-base-korean-summarization",
+    "task": "summarization",
+    "downloads": 3361,
+    "likes": 34,
+    "tags": "transformers, pytorch, safetensors, t5, text2text-generation, T5, summarization, ko",
+    "description": "This is [T5](https://huggingface.co/docs/transformers/model_doc/t5) model for korean text summarization."
+  },
+  {
+    "id": "cross-encoder/ms-marco-TinyBERT-L2",
+    "task": "text-ranking",
+    "downloads": 30503,
+    "likes": 21,
+    "tags": "sentence-transformers, pytorch, jax, onnx, safetensors, openvino, bert, text-classification",
+    "description": "This model was trained on the [MS Marco Passage Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) task."
+  },
+  {
+    "id": "omarques/autotrain-in-class-test-demo-1659958764",
+    "task": "tabular-classification",
+    "downloads": 5,
+    "likes": 0,
+    "tags": "transformers, joblib, autotrain, tabular, classification, tabular-classification, dataset:omarques/autotrain-data-in-class-test-demo, co2_eq_emissions",
+    "description": "- Problem type: Binary Classification"
+  },
+  {
+    "id": "OmniGen2/OmniGen2",
+    "task": "any-to-any",
+    "downloads": 31817,
+    "likes": 430,
+    "tags": "diffusers, safetensors, any-to-any, arxiv:2506.18871, arxiv:2404.07724, license:apache-2.0, diffusers:OmniGen2Pipeline, region:us",
+    "description": "- **2025-07-05**: Training datasets [X2I2](https://huggingface.co/datasets/OmniGen2/X2I2) are available."
+  },
+  {
+    "id": "ryukkt62/Suncast",
+    "task": "tabular-regression",
+    "downloads": 46,
+    "likes": 17,
+    "tags": "sklearn, solar-energy, photovoltaic, forecasting, random-forest, pycaret, gfs, nasa-power",
+    "description": "A machine learning model that predicts **hourly solar PV power generation (kWh)** for any location across mainland China, given latitude, longitude, and a date range."
+  },
+  {
+    "id": "facebook/dinov3-vits16plus-pretrain-lvd1689m",
+    "task": "image-feature-extraction",
+    "downloads": 28512,
+    "likes": 15,
+    "tags": "transformers, safetensors, dinov3_vit, image-feature-extraction, dino, dinov3, arxiv:2508.10104, en",
+    "description": ""
+  },
+  {
+    "id": "am-infoweb/layoutlmv3-finetuned_docvqa",
+    "task": "document-question-answering",
+    "downloads": 28,
+    "likes": 3,
+    "tags": "transformers, pytorch, safetensors, layoutlmv3, document-question-answering, generated_from_trainer, base_model:microsoft/layoutlmv3-base, base_model:finetune:microsoft/layoutlmv3-base",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "facebook/timesformer-hr-finetuned-k400",
+    "task": "video-classification",
+    "downloads": 205,
+    "likes": 3,
+    "tags": "transformers, pytorch, timesformer, video-classification, vision, arxiv:2102.05095, license:cc-by-nc-4.0, endpoints_compatible",
+    "description": "TimeSformer model pre-trained on [Kinetics-400](https://www.deepmind.com/open-source/kinetics). It was introduced in the paper [TimeSformer: Is Space-Time Attention All You Need for Video Understandin"
+  },
+  {
+    "id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+    "task": "text-classification",
+    "downloads": 963547,
+    "likes": 256,
+    "tags": "transformers, pytorch, tf, xlm-roberta, text-classification, multilingual, arxiv:2104.12250, endpoints_compatible",
+    "description": "This is a multilingual XLM-roBERTa-base model trained on ~198M tweets and finetuned for sentiment analysis. The sentiment fine-tuning was done on 8 languages (Ar, En, Fr, De, Hi, It, Sp, Pt) but it ca"
+  },
+  {
+    "id": "xingyang1/Distill-Any-Depth-Small-hf",
+    "task": "depth-estimation",
+    "downloads": 964,
+    "likes": 7,
+    "tags": "transformers, safetensors, depth_anything, depth-estimation, distill-any-depth, vision, arxiv:2502.19204, license:mit",
+    "description": "We present Distill-Any-Depth, a new SOTA monocular depth estimation model trained with our proposed knowledge distillation algorithms. It was introduced in the paper [Distill Any Depth: Distillation C"
+  },
+  {
+    "id": "ricoh-ai/Qwen-3-VL-Ricoh-8B-20260227",
+    "task": "visual-question-answering",
+    "downloads": 865,
+    "likes": 13,
+    "tags": "safetensors, qwen3_vl, visual-question-answering, ja, base_model:Qwen/Qwen3-VL-8B-Thinking, base_model:finetune:Qwen/Qwen3-VL-8B-Thinking, license:apache-2.0, region:us",
+    "description": ""
+  },
+  {
+    "id": "microsoft/deberta-base-mnli",
+    "task": "text-classification",
+    "downloads": 60061,
+    "likes": 8,
+    "tags": "transformers, pytorch, rust, deberta, text-classification, deberta-v1, deberta-mnli, en",
+    "description": "[DeBERTa](https://arxiv.org/abs/2006.03654) improves the BERT and RoBERTa models using disentangled attention and enhanced mask decoder. It outperforms BERT and RoBERTa on  majority of NLU tasks with "
+  },
+  {
+    "id": "google/ddpm-celebahq-256",
+    "task": "unconditional-image-generation",
+    "downloads": 15077,
+    "likes": 55,
+    "tags": "diffusers, pytorch, unconditional-image-generation, arxiv:2006.11239, license:apache-2.0, diffusers:DDPMPipeline, region:us",
+    "description": "**Paper**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)"
+  },
+  {
+    "id": "valiantcat/LTX-2.3-Transition-LORA",
+    "task": "image-to-video",
+    "downloads": 21969,
+    "likes": 80,
+    "tags": "diffusers, lora, ValiantCat, Lightricks, LTX-2.3, image-to-video, en, base_model:Lightricks/LTX-2.3",
+    "description": "This LoRA is trained on top of **[Lightricks/LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)** and is built with a custom training paradigm tailored for high-consistency video generation."
+  },
+  {
+    "id": "facebook/sapiens-pose-1b-bfloat16",
+    "task": "keypoint-detection",
+    "downloads": 33,
+    "likes": 1,
+    "tags": "sapiens, keypoint-detection, en, arxiv:2408.12569, license:cc-by-nc-4.0, region:us",
+    "description": "Sapiens is a family of vision transformers pretrained on 300 million human images at 1024 x 1024 image resolution. The pretrained models, when finetuned for human-centric vision tasks, generalize to i"
+  },
+  {
+    "id": "unsloth/FLUX.2-klein-9B-GGUF",
+    "task": "image-to-image",
+    "downloads": 65115,
+    "likes": 174,
+    "tags": "ggml, gguf, image-generation, unsloth, image-editing, flux, diffusion-single-file, image-to-image",
+    "description": "This is a GGUF quantized version of [FLUX.2-klein-9B](https://huggingface.co/black-forest-labs/FLUX.2-klein-9B). <br>"
+  },
+  {
+    "id": "mradermacher/Vero-Qwen3I-8B-i1-GGUF",
+    "task": "reinforcement-learning",
+    "downloads": 4953,
+    "likes": 0,
+    "tags": "transformers, gguf, vero, vision-language-model, multimodal, visual-reasoning, reinforcement-learning, en",
+    "description": "weighted/imatrix quants of https://huggingface.co/zlab-princeton/Vero-Qwen3I-8B"
+  },
+  {
+    "id": "jeannedup/a2c-cartpole",
+    "task": "reinforcement-learning",
+    "downloads": 283,
+    "likes": 0,
+    "tags": "stable-baselines3, CartPole-v1, deep-reinforcement-learning, reinforcement-learning, model-index, region:us",
+    "description": "This is a trained model of a **A2C** agent playing **CartPole-v1**"
+  },
+  {
+    "id": "cacauvicosa/heart1ohr2x9e-target-classification",
+    "task": "tabular-classification",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "sklearn, tabular-classification, baseline-trainer, license:apache-2.0, region:us",
+    "description": "Name: LogisticRegression(class_weight='balanced', max_iter=1000), dtype: float64"
+  },
+  {
+    "id": "HumanCompatibleAI/ppo-seals-CartPole-v0",
+    "task": "reinforcement-learning",
+    "downloads": 55733,
+    "likes": 16,
+    "tags": "stable-baselines3, seals/CartPole-v0, deep-reinforcement-learning, reinforcement-learning, model-index, region:us",
+    "description": "This is a trained model of a **PPO** agent playing **seals/CartPole-v0**"
+  },
+  {
+    "id": "usyd-community/vitpose-plus-base",
+    "task": "keypoint-detection",
+    "downloads": 4870536,
+    "likes": 31,
+    "tags": "transformers, safetensors, vitpose, keypoint-detection, en, arxiv:2204.12484, license:apache-2.0, endpoints_compatible",
+    "description": "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation and ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation. It obtains 81.1 AP on MS COCO Keypoint test-d"
+  },
+  {
+    "id": "Mungert/Holo1-3B-GGUF",
+    "task": "visual-document-retrieval",
+    "downloads": 445,
+    "likes": 1,
+    "tags": "transformers, gguf, multimodal, action, agent, visual-document-retrieval, en, arxiv:2506.02865",
+    "description": "This model is described in the paper [Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights](https://huggingface.co/papers/2506.02865). The project page can be found at [https://www.s"
+  },
+  {
+    "id": "AInVFX/SeedVR2_comfyUI",
+    "task": "video-to-video",
+    "downloads": 43816,
+    "likes": 52,
+    "tags": "diffusers, gguf, art, video-to-video, base_model:ByteDance-Seed/SeedVR2-3B, base_model:quantized:ByteDance-Seed/SeedVR2-3B, license:apache-2.0, region:us",
+    "description": "This repository contains additional upscale models for SeedVR2 video upscaling, complementing the main [numz/SeedVR2_comfyUI](https://huggingface.co/numz/SeedVR2_comfyUI) repository."
+  },
+  {
+    "id": "mlx-community/gemma-4-e4b-it-8bit",
+    "task": "any-to-any",
+    "downloads": 41246,
+    "likes": 14,
+    "tags": "mlx, safetensors, gemma4, any-to-any, license:apache-2.0, 8-bit, region:us",
+    "description": "This model was converted to MLX format from [`google/gemma-4-e4b-it`](https://huggingface.co/google/gemma-4-e4b-it)"
+  },
+  {
+    "id": "hiddenlayerr/champion-edge-rf-model",
+    "task": "tabular-classification",
+    "downloads": 3,
+    "likes": 0,
+    "tags": "transformers, joblib, tabular-classification, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "teohyc/Covid-XRay-Diffusion-Model",
+    "task": "unconditional-image-generation",
+    "downloads": 61,
+    "likes": 0,
+    "tags": "diffusers, safetensors, Lung, Pneumonia, Covid-19, PyTorch, unconditional-image-generation, en",
+    "description": "This is a diffusion model designed for generating synthetic COVID-19 X-ray images. The model takes random noise as input and iteratively denoises it to produce realistic X-ray images."
+  },
+  {
+    "id": "cyankiwi/gemma-4-31B-it-AWQ-4bit",
+    "task": "image-text-to-text",
+    "downloads": 322762,
+    "likes": 27,
+    "tags": "transformers, safetensors, gemma4, image-text-to-text, conversational, base_model:google/gemma-4-31B-it, base_model:quantized:google/gemma-4-31B-it, license:apache-2.0",
+    "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release "
+  },
+  {
+    "id": "timm/ViT-B-32-SigLIP2-256",
+    "task": "zero-shot-image-classification",
+    "downloads": 11333,
+    "likes": 1,
+    "tags": "open_clip, safetensors, siglip, siglip2, vision, zero-shot-image-classification, dataset:webli, arxiv:2502.14786",
+    "description": "A SigLIP 2 Vision-Lanuage model trained on WebLI."
+  },
+  {
+    "id": "Tavernari/git-commit-message",
+    "task": "summarization",
+    "downloads": 677,
+    "likes": 23,
+    "tags": "transformers, gguf, qwen2, git, commit, message, summarization, dataset:Tavernari/git-commit-message-dt",
+    "description": "Welcome to the **Git Commit Message Generator**\u2014an AI-powered tool that turns your code diffs into clear, meaningful commit messages with detailed reasoning. Hosted on Hugging Face, this reasoning ver"
+  },
+  {
+    "id": "keremberke/yolov8m-table-extraction",
+    "task": "object-detection",
+    "downloads": 9249,
+    "likes": 44,
+    "tags": "ultralytics, tensorboard, v8, ultralyticsplus, yolov8, yolo, vision, object-detection",
+    "description": "- Install [ultralyticsplus](https://github.com/fcakyon/ultralyticsplus):"
+  },
+  {
+    "id": "polymathic-ai/aion-base",
+    "task": "any-to-any",
+    "downloads": 13078,
+    "likes": 19,
+    "tags": "aion, safetensors, model_hub_mixin, pytorch_model_hub_mixin, any-to-any, dataset:MultimodalUniverse/legacysurvey, dataset:MultimodalUniverse/hsc, dataset:MultimodalUniverse/gaia",
+    "description": "**AION-base** is a 300M parameter large omnimodal model specifically designed for astronomical surveys, presented in the paper [AION-1: Omnimodal Foundation Model for Astronomical Sciences](https://hu"
+  },
+  {
+    "id": "microsoft/trocr-large-handwritten",
+    "task": "image-to-text",
+    "downloads": 286018,
+    "likes": 158,
+    "tags": "transformers, pytorch, vision-encoder-decoder, image-text-to-text, trocr, image-to-text, arxiv:2109.10282, endpoints_compatible",
+    "description": "TrOCR model fine-tuned on the [IAM dataset](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database). It was introduced in the paper [TrOCR: Transformer-based Optical Character Recognition with "
+  },
+  {
+    "id": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+    "task": "image-text-to-text",
+    "downloads": 364823,
+    "likes": 1266,
+    "tags": "transformers, safetensors, llama4, image-text-to-text, facebook, meta, pytorch, llama",
+    "description": ""
+  },
+  {
+    "id": "Video-R1/Qwen2.5-VL-7B-COT-SFT",
+    "task": "video-text-to-text",
+    "downloads": 264,
+    "likes": 2,
+    "tags": "transformers, safetensors, qwen2_5_vl, image-text-to-text, video-text-to-text, en, dataset:Video-R1/Video-R1-data, arxiv:2503.21776",
+    "description": "This repository contains `Video-R1/Qwen2.5-VL-7B-COT-SFT`, the SFT (Supervised Fine-Tuning) cold start model trained using the Video-R1-COT-165k dataset. This intermediate checkpoint serves as the bas"
+  },
+  {
+    "id": "HPAI-BSC/Llama3.1-Aloe-Beta-8B",
+    "task": "question-answering",
+    "downloads": 1384,
+    "likes": 19,
+    "tags": "transformers, safetensors, llama, text-generation, biology, medical, healthcare, question-answering",
+    "description": "Aloe: A Family of Fine-tuned Open Healthcare LLMs"
+  },
+  {
+    "id": "jinaai/jina-reranker-m0",
+    "task": "text-classification",
+    "downloads": 137256,
+    "likes": 118,
+    "tags": "transformers, safetensors, qwen2_vl, feature-extraction, sentence-transformers, vidore, reranker, text-classification",
+    "description": "[GGUF](https://huggingface.co/jinaai/jina-reranker-m0-GGUF)| [Blog](https://jina.ai/news/jina-reranker-m0-multilingual-multimodal-document-reranker) | [API](https://jina.ai/reranker) | [AWS](https://a"
+  },
+  {
+    "id": "dslim/bert-large-NER",
+    "task": "token-classification",
+    "downloads": 121094,
+    "likes": 162,
+    "tags": "transformers, pytorch, tf, jax, onnx, safetensors, bert, token-classification",
+    "description": "If my open source models have been useful to you, please consider supporting me in building small, useful AI models for everyone (and help me afford med school / help out my parents financially). Than"
+  },
+  {
+    "id": "MidnightRunner/Ultralytics",
+    "task": "object-detection",
+    "downloads": 1505,
+    "likes": 5,
+    "tags": "ultralytics, pytorch, yolo, yolov8, yolov11, object-detection, en, dataset:wider_face",
+    "description": "**ComfyUI Ultralytics Integration \u2013 Midnight1111 Model Collection**"
+  },
+  {
+    "id": "facebook/dpt-dinov2-giant-nyu",
+    "task": "depth-estimation",
+    "downloads": 60,
+    "likes": 1,
+    "tags": "transformers, pytorch, safetensors, dpt, depth-estimation, vision, dinov2, arxiv:2304.07193",
+    "description": "DPT (Dense Prediction Transformer) model with DINOv2 backbone as proposed in [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) by Oquab et al."
+  },
+  {
+    "id": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
+    "task": "audio-classification",
+    "downloads": 518876,
+    "likes": 184,
+    "tags": "speechbrain, audio-classification, Emotion, Recognition, wav2vec2, pytorch, en, dataset:iemocap",
+    "description": "This repository provides all the necessary tools to perform emotion recognition with a fine-tuned wav2vec2 (base) model using SpeechBrain."
+  },
+  {
+    "id": "intfloat/e5-small-v2",
+    "task": "sentence-similarity",
+    "downloads": 959972,
+    "likes": 116,
+    "tags": "sentence-transformers, pytorch, tf, onnx, safetensors, openvino, bert, mteb",
+    "description": "[Text Embeddings by Weakly-Supervised Contrastive Pre-training](https://arxiv.org/pdf/2212.03533.pdf)."
+  },
+  {
+    "id": "timm/samvit_base_patch16.sa1b",
+    "task": "image-feature-extraction",
+    "downloads": 14405,
+    "likes": 1,
+    "tags": "timm, pytorch, safetensors, image-feature-extraction, transformers, arxiv:2304.02643, arxiv:2010.11929, license:apache-2.0",
+    "description": "A Segment-Anything Vision Transformer (SAM ViT) image feature model (NOTE: for features and fine-tune, segmentation head not included). Pretrained on SA-1B for segementation by paper authors w/ initia"
+  },
+  {
+    "id": "LanguageBind/UniWorld-V1",
+    "task": "image-to-image",
+    "downloads": 10500,
+    "likes": 33,
+    "tags": "univa, safetensors, univa_qwen2p5vl, image-to-image, arxiv:2506.03147, arxiv:2503.07265, arxiv:2412.00131, license:mit",
+    "description": "UniWorld: High-Resolution Semantic Encoders for <br> Unified Visual Understanding and Generation"
+  },
+  {
+    "id": "Qwen/Qwen3Guard-Stream-0.6B",
+    "task": "feature-extraction",
+    "downloads": 154443,
+    "likes": 30,
+    "tags": "transformers, safetensors, qwen3, feature-extraction, custom_code, arxiv:2510.14276, base_model:Qwen/Qwen3-0.6B, base_model:finetune:Qwen/Qwen3-0.6B",
+    "description": "**Qwen3Guard** is a series of safety moderation models built upon Qwen3 and trained on a dataset of 1.19 million prompts and responses labeled for safety. The series includes models of three sizes (0."
+  },
+  {
+    "id": "jaranohaal/vit-base-violence-detection",
+    "task": "image-classification",
+    "downloads": 60426,
+    "likes": 9,
+    "tags": "transformers, pytorch, safetensors, image-classification, vision, violence-detection, en, dataset:abdulmananraja/real-life-violence-situations",
+    "description": "This is a Vision Transformer (ViT) model fine-tuned for violence detection. The model is based on [google/vit-base-patch16-224-in21k](https://huggingface.co/google/vit-base-patch16-224-in21k) and has "
+  },
+  {
+    "id": "timm/swinv2_tiny_window8_256.ms_in1k",
+    "task": "image-classification",
+    "downloads": 49726,
+    "likes": 2,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, arxiv:2111.09883, license:mit",
+    "description": "A Swin Transformer V2 image classification model. Pretrained on ImageNet-1k by paper authors."
+  },
+  {
+    "id": "onnx-community/ultravox-v0_5-llama-3_2-1b-ONNX",
+    "task": "audio-text-to-text",
+    "downloads": 385,
+    "likes": 7,
+    "tags": "transformers.js, onnx, ultravox, audio-text-to-text, ar, be, bg, bn",
+    "description": "If you haven't already, you can install the [Transformers.js](https://huggingface.co/docs/transformers.js) JavaScript library from [NPM](https://www.npmjs.com/package/@huggingface/transformers) using:"
+  },
+  {
+    "id": "tarn59/pixel_art_style_lora_z_image_turbo",
+    "task": "text-to-image",
+    "downloads": 43380,
+    "likes": 31,
+    "tags": "diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo, license:apache-2.0, region:us",
+    "description": "You should use `Pixel art style.` to trigger the image generation."
+  },
+  {
+    "id": "straino/jina-embeddings-v4-vllm-retrieval-Q5_K_M-GGUF",
+    "task": "visual-document-retrieval",
+    "downloads": 9,
+    "likes": 1,
+    "tags": "transformers, gguf, vidore, colpali, multimodal-embedding, multilingual-embedding, Text-to-Visual Document (T\u2192VD) retrieval, feature-extraction",
+    "description": "This model was converted to GGUF format from [`jinaai/jina-embeddings-v4-vllm-retrieval`](https://huggingface.co/jinaai/jina-embeddings-v4-vllm-retrieval) using llama.cpp via the ggml.ai's [GGUF-my-re"
+  },
+  {
+    "id": "facebook/roberta-hate-speech-dynabench-r4-target",
+    "task": "text-classification",
+    "downloads": 467555,
+    "likes": 98,
+    "tags": "transformers, pytorch, safetensors, roberta, text-classification, en, arxiv:2012.15761, endpoints_compatible",
+    "description": "The R4 Target model from [Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection](https://arxiv.org/abs/2012.15761)"
+  },
+  {
+    "id": "GoodBaiBai88/M3D-CLIP",
+    "task": "image-feature-extraction",
+    "downloads": 5936,
+    "likes": 15,
+    "tags": "transformers, safetensors, m3d_clip, feature-extraction, 3D medical CLIP, Image-text retrieval, image-feature-extraction, custom_code",
+    "description": "M3D-CLIP is one of the works in the [M3D](https://github.com/BAAI-DCAI/M3D) series."
+  },
+  {
+    "id": "thoddnn/colqwen2-v1.0-mlx-4bit",
+    "task": "visual-document-retrieval",
+    "downloads": 58,
+    "likes": 0,
+    "tags": "transformers, safetensors, colqwen2, pretraining, colpali, mlx, visual-document-retrieval, en",
+    "description": "The Model [thoddnn/colqwen2-v1.0-mlx-4bit](https://huggingface.co/thoddnn/colqwen2-v1.0-mlx-4bit) was converted to MLX format from [vidore/colqwen2-v1.0-hf](https://huggingface.co/vidore/colqwen2-v1.0"
+  },
+  {
+    "id": "tsystems/colqwen2-7b-v1.0-merged",
+    "task": "visual-document-retrieval",
+    "downloads": 3,
+    "likes": 0,
+    "tags": "transformers, safetensors, qwen2_vl, multimodal-embedding, visual-document-retrieval, en, de, dataset:tattrongvu/vqa_de_en_batch1",
+    "description": "ColQwen is a model based on a novel model architecture and training strategy based on Vision Language Models (VLMs) to efficiently index documents from their visual features."
+  },
+  {
+    "id": "openai/whisper-large",
+    "task": "automatic-speech-recognition",
+    "downloads": 84572,
+    "likes": 542,
+    "tags": "transformers, pytorch, tf, jax, safetensors, whisper, automatic-speech-recognition, audio",
+    "description": "Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680k hours"
+  },
+  {
+    "id": "Aisha-AI-Official/wan2.2-assisted-handjob",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 5,
+    "tags": "lora, nsfw, image-text-to-video, base_model:Wan-AI/Wan2.2-I2V-A14B-Diffusers, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B-Diffusers, region:us, not-for-all-audiences",
+    "description": "The scene start with a woman posing."
+  },
+  {
+    "id": "qilowoq/bge-reranker-v2-m3-en-ru",
+    "task": "text-ranking",
+    "downloads": 2305,
+    "likes": 13,
+    "tags": "sentence-transformers, safetensors, xlm-roberta, text-classification, transformers, text-embeddings-inference, text-ranking, en",
+    "description": "This is a truncated version of [BAAI/bge-reranker-v2-m3](https://huggingface.co/BAAI/bge-reranker-v2-m3)."
+  },
+  {
+    "id": "prs-eth/marigold-normals-v1-1",
+    "task": "image-to-image",
+    "downloads": 10956,
+    "likes": 6,
+    "tags": "diffusers, safetensors, normals estimation, image analysis, computer vision, in-the-wild, zero-shot, image-to-image",
+    "description": "This is a model card for the `marigold-normals-v1-1` model for monocular normals estimation from a single image."
+  },
+  {
+    "id": "ljw13/retro-star-qwen3-14b-0928",
+    "task": "text-ranking",
+    "downloads": 911,
+    "likes": 0,
+    "tags": "transformers, safetensors, qwen3, text-generation, text-generation-inference, text-ranking, en, arxiv:2509.24869",
+    "description": "> Retro*: Optimizing LLMs for Reasoning-Intensive Document Retrieval"
+  },
+  {
+    "id": "Yiwen-ntu/MeshAnything",
+    "task": "image-to-3d",
+    "downloads": 55,
+    "likes": 14,
+    "tags": "mesh-anything, image-to-3d, arxiv:2406.10163, region:us",
+    "description": "- [6/17] \ud83d\udd25\ud83d\udd25 We released the 350m version of **MeshAnything**."
+  },
+  {
+    "id": "sarvamai/shuka-1",
+    "task": "audio-text-to-text",
+    "downloads": 1444,
+    "likes": 85,
+    "tags": "transformers, safetensors, shuka, feature-extraction, audio-text-to-text, custom_code, en, hi",
+    "description": "`Shuka v1` is a language model which natively understands audio in Indic languages. It is an encoder-decoder model built by combining two models:"
+  },
+  {
+    "id": "Dinh/videomae-small-finetuned-kinetics-finetuned-action-finetuned-ucf101-subset",
+    "task": "video-classification",
+    "downloads": 73,
+    "likes": 0,
+    "tags": "transformers, pytorch, tensorboard, videomae, video-classification, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "Qwen/Qwen3.5-0.8B",
+    "task": "image-text-to-text",
+    "downloads": 2624241,
+    "likes": 498,
+    "tags": "transformers, safetensors, qwen3_5, image-text-to-text, conversational, base_model:Qwen/Qwen3.5-0.8B-Base, base_model:finetune:Qwen/Qwen3.5-0.8B-Base, license:apache-2.0",
+    "description": "> This repository contains model weights and configuration files for the post-trained model in the Hugging Face Transformers format."
+  },
+  {
+    "id": "Xenova/face-parsing",
+    "task": "image-segmentation",
+    "downloads": 4505,
+    "likes": 9,
+    "tags": "transformers.js, onnx, segformer, image-segmentation, base_model:jonathandinu/face-parsing, base_model:quantized:jonathandinu/face-parsing, region:us",
+    "description": "https://huggingface.co/jonathandinu/face-parsing with ONNX weights to be compatible with Transformers.js."
+  },
+  {
+    "id": "mradermacher/Agent-STAR-RL-7B-i1-GGUF",
+    "task": "reinforcement-learning",
+    "downloads": 5872,
+    "likes": 1,
+    "tags": "transformers, gguf, reinforcement-learning, tool-use, agent, travel-planner, en, base_model:xxwu/Agent-STAR-RL-7B",
+    "description": "weighted/imatrix quants of https://huggingface.co/xxwu/Agent-STAR-RL-7B"
+  },
+  {
+    "id": "tencent/Hunyuan3D-2mv",
+    "task": "image-to-3d",
+    "downloads": 1978,
+    "likes": 334,
+    "tags": "hunyuan3d-2, image-to-3d, text-to-3d, en, zh, arxiv:2501.12202, arxiv:2411.02293, license:other",
+    "description": "[//]: # (  <a href=# target=\"_blank\"><img src=https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv height=22px></a>)"
+  },
+  {
+    "id": "unsloth/Qwen3.5-0.8B-GGUF",
+    "task": "image-text-to-text",
+    "downloads": 291071,
+    "likes": 133,
+    "tags": "transformers, gguf, unsloth, image-text-to-text, base_model:Qwen/Qwen3.5-0.8B, base_model:quantized:Qwen/Qwen3.5-0.8B, license:apache-2.0, endpoints_compatible",
+    "description": "- You can now also fine-tune the model locally with [Unsloth](https://github.com/unslothai/unsloth)."
+  },
+  {
+    "id": "facebook/mask2former-swin-small-ade-semantic",
+    "task": "image-segmentation",
+    "downloads": 20231,
+    "likes": 8,
+    "tags": "transformers, pytorch, safetensors, mask2former, vision, image-segmentation, dataset:coco, arxiv:2112.01527",
+    "description": "Mask2Former model trained on ADE20k semantic segmentation (small-sized version, Swin backbone). It was introduced in the paper [Masked-attention Mask Transformer for Universal Image Segmentation"
+  },
+  {
+    "id": "lllyasviel/control_v11p_sd15_normalbae",
+    "task": "image-to-image",
+    "downloads": 8203,
+    "likes": 18,
+    "tags": "diffusers, safetensors, art, controlnet, stable-diffusion, controlnet-v1-1, image-to-image, arxiv:2302.05543",
+    "description": "**Controlnet v1.1** is the successor model of [Controlnet v1.0](https://huggingface.co/lllyasviel/ControlNet)"
+  },
+  {
+    "id": "AgentPublic/camembert-base-squadFR-fquad-piaf",
+    "task": "question-answering",
+    "downloads": 1734,
+    "likes": 28,
+    "tags": "transformers, pytorch, tf, safetensors, camembert, question-answering, fr, dataset:piaf",
+    "description": "Question-answering French model, using base [CamemBERT](https://camembert-model.fr/) fine-tuned on a combo of three French Q&A datasets:"
+  },
+  {
+    "id": "meta-llama/Meta-Llama-3-8B",
+    "task": "text-generation",
+    "downloads": 3287503,
+    "likes": 6515,
+    "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3",
+    "description": ""
+  },
+  {
+    "id": "fushh7/LLMDet",
+    "task": "zero-shot-object-detection",
+    "downloads": 0,
+    "likes": 23,
+    "tags": "safetensors, zero-shot-object-detection, arxiv:2501.18954, license:apache-2.0, region:us",
+    "description": "This is the official PyTorch implementation of [LLMDet](https://arxiv.org/abs/2501.18954). Please see our [GitHub](https://github.com/iSEE-Laboratory/LLMDet)."
+  },
+  {
+    "id": "Dijaaa/videomae-base-finetuned-kinetics-finetuned-ucf-crime-subset",
+    "task": "video-classification",
+    "downloads": 77,
+    "likes": 0,
+    "tags": "transformers, tensorboard, safetensors, videomae, video-classification, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "SWivid/E2-TTS",
+    "task": "text-to-speech",
+    "downloads": 111128,
+    "likes": 57,
+    "tags": "f5-tts, text-to-speech, dataset:amphion/Emilia-Dataset, arxiv:2406.18009, license:cc-by-nc-4.0, region:us",
+    "description": "Download [F5-TTS](https://huggingface.co/SWivid/F5-TTS/tree/main/F5TTS_Base) or [E2 TTS](https://huggingface.co/SWivid/E2-TTS/tree/main/E2TTS_Base) and place under ckpts/"
+  },
+  {
+    "id": "ustc-community/dfine-xlarge-coco",
+    "task": "object-detection",
+    "downloads": 2527,
+    "likes": 9,
+    "tags": "transformers, safetensors, d_fine, object-detection, vision, en, dataset:coco, arxiv:2410.13842",
+    "description": "The D-FINE model was proposed in [D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement](https://arxiv.org/abs/2410.13842) by"
+  },
+  {
+    "id": "sentence-transformers/distiluse-base-multilingual-cased-v1",
+    "task": "sentence-similarity",
+    "downloads": 1030173,
+    "likes": 130,
+    "tags": "sentence-transformers, pytorch, tf, onnx, safetensors, openvino, distilbert, feature-extraction",
+    "description": "This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 512 dimensional dense vector space and can be used for tasks like clustering or semantic search."
+  },
+  {
+    "id": "John6666/autismmix-sdxl-autismmix-pony-sdxl",
+    "task": "text-to-image",
+    "downloads": 24785,
+    "likes": 5,
+    "tags": "diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, anime, pony, en",
+    "description": "Original model is [here](https://civitai.com/models/288584?modelVersionId=324619)."
+  },
+  {
+    "id": "pragatiparijat/pragatingp",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 1,
+    "tags": "adapter-transformers, agent, biology, image-text-to-video, ak, ab, aa, ar",
+    "description": ""
+  },
+  {
+    "id": "larsquaedvlieg/TRELLIS-image-large-fork",
+    "task": "image-to-3d",
+    "downloads": 37,
+    "likes": 0,
+    "tags": "trellis, image-to-3d, en, arxiv:2412.01506, license:mit, region:us",
+    "description": "The image conditioned version of TRELLIS, a large 3D genetive model. It was introduced in the paper [Structured 3D Latents for Scalable and Versatile 3D Generation](https://huggingface.co/papers/2412."
+  },
+  {
+    "id": "neulab/omnitab-large-16shot",
+    "task": "table-question-answering",
+    "downloads": 7,
+    "likes": 2,
+    "tags": "transformers, pytorch, bart, text2text-generation, tapex, table-question-answering, en, dataset:wikitablequestions",
+    "description": "OmniTab is a table-based QA model proposed in [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/pdf/2207.03637.pdf). The original Git"
+  },
+  {
+    "id": "OpenGVLab/VideoChat-Flash-Qwen2_5-7B_InternVideo2-1B",
+    "task": "video-text-to-text",
+    "downloads": 971,
+    "likes": 7,
+    "tags": "transformers, safetensors, videochat_flash_qwen, feature-extraction, multimodal, video-text-to-text, custom_code, en",
+    "description": "[\\[\ud83d\udcf0 Blog\\]](https://internvideo.github.io/blog/2024-12-31-VideoChat-Flash) [\\[\ud83d\udcc2 GitHub\\]](https://github.com/OpenGVLab/VideoChat-Flash)   [\\[\ud83d\udcdc Tech Report\\]](https://www.arxiv.org/abs/2501.00574) [\\["
+  },
+  {
+    "id": "Sharka/CIVQA_Impira_QA",
+    "task": "document-question-answering",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "transformers, pytorch, layoutlm, document-question-answering, license:mit, endpoints_compatible, region:us",
+    "description": "This is a fine-tuned version of the [Impira  model](https://huggingface.co/impira/layoutlm-document-qa), which was trained on Czech Invoice Visual Question Answering (CIVQA) datasets containing invoic"
+  },
+  {
+    "id": "stabilityai/stable-diffusion-3.5-large-controlnet-canny",
+    "task": "text-to-image",
+    "downloads": 55412,
+    "likes": 15,
+    "tags": "diffusers, safetensors, stable-diffusion, controlnet, text-to-image, en, arxiv:2302.05543, license:other",
+    "description": "This repository provides the Canny ControlNet for [Stable Diffusion 3.5 Large.](https://stability.ai/news/introducing-stable-diffusion-3-5)."
+  },
+  {
+    "id": "Sharka/CIVQA_LayoutXLM",
+    "task": "document-question-answering",
+    "downloads": 15,
+    "likes": 2,
+    "tags": "transformers, pytorch, layoutlmv2, document-question-answering, document question answering, cs, dataset:fimu-docproc-research/CIVQA-TesseractOCR, license:mit",
+    "description": "This is a fine-tuned version of the [LayoutXLM model](https://huggingface.co/microsoft/layoutxlm-base), which was trained on Czech Invoice Visual Question Answering (CIVQA) datasets containing invoice"
+  },
+  {
+    "id": "jameslahm/yoloe-11s-seg",
+    "task": "zero-shot-object-detection",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "safetensors, model_hub_mixin, pytorch_model_hub_mixin, zero-shot-object-detection, arxiv:2503.07465, license:agpl-3.0, region:us",
+    "description": "[YOLOE: Real-Time Seeing Anything](https://arxiv.org/abs/2503.07465)"
+  },
+  {
+    "id": "YuchenShen/FoMo-0D",
+    "task": "tabular-classification",
+    "downloads": 14,
+    "likes": 0,
+    "tags": "safetensors, model_hub_mixin, pytorch_model_hub_mixin, tabular-classification, license:mit, region:us",
+    "description": "This model has been pushed to the Hub using the [PytorchModelHubMixin](https://huggingface.co/docs/huggingface_hub/package_reference/mixins#huggingface_hub.PyTorchModelHubMixin) integration:"
+  },
+  {
+    "id": "SPRINGLab/EZ-VC",
+    "task": "audio-to-audio",
+    "downloads": 133,
+    "likes": 5,
+    "tags": "f5-tts, audio-to-audio, arxiv:2410.06885, license:cc-by-nc-4.0, region:us",
+    "description": ""
+  },
+  {
+    "id": "deepset/tinyroberta-squad2",
+    "task": "question-answering",
+    "downloads": 134246,
+    "likes": 113,
+    "tags": "transformers, pytorch, safetensors, roberta, question-answering, en, dataset:squad_v2, arxiv:1909.10351",
+    "description": "This is the *distilled* version of the [deepset/roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2) model. This model has a comparable prediction quality and runs at twice the spe"
+  },
+  {
+    "id": "cahya/bert2bert-indonesian-summarization",
+    "task": "summarization",
+    "downloads": 820,
+    "likes": 5,
+    "tags": "transformers, pytorch, encoder-decoder, text2text-generation, pipeline:summarization, summarization, bert2bert, id",
+    "description": "Finetuned BERT-base summarization model for Indonesian."
+  },
+  {
+    "id": "trackdr/LLaMA-Mesh-Q4_K_M-GGUF",
+    "task": "text-to-3d",
+    "downloads": 42,
+    "likes": 1,
+    "tags": "transformers, gguf, mesh-generation, llama-cpp, gguf-my-repo, text-to-3d, base_model:Zhengyi/LLaMA-Mesh, base_model:quantized:Zhengyi/LLaMA-Mesh",
+    "description": "This model was converted to GGUF format from [`Zhengyi/LLaMA-Mesh`](https://huggingface.co/Zhengyi/LLaMA-Mesh) using llama.cpp via the ggml.ai's [GGUF-my-repo](https://huggingface.co/spaces/ggml-org/g"
+  },
+  {
+    "id": "paige-ai/Virchow",
+    "task": "image-feature-extraction",
+    "downloads": 21140,
+    "likes": 72,
+    "tags": "timm, pytorch, safetensors, image-feature-extraction, PyTorch, license:apache-2.0, region:us",
+    "description": ""
+  },
+  {
+    "id": "Fuyucchi/yolov8_animeface",
+    "task": "object-detection",
+    "downloads": 1278,
+    "likes": 12,
+    "tags": "ultralytics, anime, face, yolov8, face detection, object-detection, base_model:Ultralytics/YOLOv8, base_model:finetune:Ultralytics/YOLOv8",
+    "description": "Anime Face Detection using YOLOv8"
+  },
+  {
+    "id": "onnx-community/depth-anything-v2-base",
+    "task": "depth-estimation",
+    "downloads": 250,
+    "likes": 0,
+    "tags": "transformers.js, onnx, depth_anything, depth-estimation, base_model:depth-anything/Depth-Anything-V2-Base, base_model:quantized:depth-anything/Depth-Anything-V2-Base, license:cc-by-nc-4.0, region:us",
+    "description": "https://huggingface.co/depth-anything/Depth-Anything-V2-Base with ONNX weights to be compatible with Transformers.js."
+  },
+  {
+    "id": "Qwen/Qwen2.5-Omni-7B",
+    "task": "any-to-any",
+    "downloads": 473685,
+    "likes": 1887,
+    "tags": "transformers, safetensors, qwen2_5_omni, multimodal, any-to-any, en, arxiv:2503.20215, license:other",
+    "description": "Qwen2.5-Omni is an end-to-end multimodal model designed to perceive diverse modalities, including text, images, audio, and video, while simultaneously generating text and natural speech responses in a"
+  },
+  {
+    "id": "naver/trecdl22-crossencoder-debertav3",
+    "task": "text-ranking",
+    "downloads": 812,
+    "likes": 3,
+    "tags": "sentence-transformers, pytorch, safetensors, deberta-v2, text-ranking, license:cc-by-nc-sa-4.0, region:us",
+    "description": ""
+  },
+  {
+    "id": "nvidia/segformer-b2-finetuned-cityscapes-1024-1024",
+    "task": "image-segmentation",
+    "downloads": 16930,
+    "likes": 2,
+    "tags": "transformers, pytorch, tf, segformer, vision, image-segmentation, dataset:cityscapes, arxiv:2105.15203",
+    "description": "SegFormer model fine-tuned on CityScapes at resolution 1024x1024. It was introduced in the paper [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers](https://arxiv.org/"
+  },
+  {
+    "id": "openbmb/MiniCPM-V",
+    "task": "visual-question-answering",
+    "downloads": 1253,
+    "likes": 200,
+    "tags": "transformers, safetensors, minicpmv, feature-extraction, visual-question-answering, custom_code, arxiv:2308.12038, region:us",
+    "description": "- [2025.01.14] \ud83d\udd25\ud83d\udd25 We open source [**MiniCPM-o 2.6**](https://huggingface.co/openbmb/MiniCPM-o-2_6), with significant performance improvement over **MiniCPM-V 2.6**, and support real-time speech-to-spe"
+  },
+  {
+    "id": "TimKond/S-PubMedBert-MedQuAD",
+    "task": "sentence-similarity",
+    "downloads": 321958,
+    "likes": 8,
+    "tags": "sentence-transformers, pytorch, safetensors, bert, feature-extraction, sentence-similarity, transformers, license:mit",
+    "description": "This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 768 dimensional dense vector space and can be used for tasks like clustering or semantic search."
+  },
+  {
+    "id": "ETH-CVG/lightglue_superpoint",
+    "task": "keypoint-detection",
+    "downloads": 41942,
+    "likes": 63,
+    "tags": "transformers, safetensors, lightglue, keypoint-matching, keypoint-detection, arxiv:2306.13643, license:other, endpoints_compatible",
+    "description": "The LightGlue model was proposed"
+  },
+  {
+    "id": "microsoft/deberta-v3-small",
+    "task": "fill-mask",
+    "downloads": 440891,
+    "likes": 75,
+    "tags": "transformers, pytorch, tf, deberta-v2, deberta, deberta-v3, fill-mask, en",
+    "description": "[DeBERTa](https://arxiv.org/abs/2006.03654) improves the BERT and RoBERTa models using disentangled attention and enhanced mask decoder. With those two improvements, DeBERTa out perform RoBERTa on a m"
+  },
+  {
+    "id": "pcoloc/autotrain-dragino-7-7-max_300m-1861063640",
+    "task": "tabular-regression",
+    "downloads": 6,
+    "likes": 1,
+    "tags": "transformers, joblib, autotrain, tabular, regression, tabular-regression, dataset:pcoloc/autotrain-data-dragino-7-7-max_300m, co2_eq_emissions",
+    "description": "- Problem type: Single Column Regression"
+  },
+  {
+    "id": "pitangent-ds/YOLOv8-human-detection-thermal",
+    "task": "object-detection",
+    "downloads": 2078,
+    "likes": 7,
+    "tags": "ultralytics, tensorboard, object-detection, pytorch, roboflow-universe, human-detection, yolov8, license:agpl-3.0",
+    "description": "This model is can be used for detecting humans from thermal images. This should work on both Pseudo-color and Grayscale thermal images. The model was fine tuned for humans only but can be finetuned fu"
+  },
+  {
+    "id": "DragonLLM/Llama-Open-Finance-8B",
+    "task": "question-answering",
+    "downloads": 1384,
+    "likes": 20,
+    "tags": "transformers, safetensors, llama, text-generation, finance, economics, business, question-answering",
+    "description": ""
+  },
+  {
+    "id": "mispeech/GLAP",
+    "task": "audio-text-to-text",
+    "downloads": 201,
+    "likes": 6,
+    "tags": "glap_model, safetensors, glap, audio-text-to-text, custom_code, arxiv:2506.11350, license:apache-2.0, region:us",
+    "description": "GLAP (Generalized Language Audio Pretraining)"
+  },
+  {
+    "id": "Qwen/Qwen3-8B",
+    "task": "text-generation",
+    "downloads": 8582115,
+    "likes": 1044,
+    "tags": "transformers, safetensors, qwen3, text-generation, conversational, arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-8B-Base",
+    "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groun"
+  },
+  {
+    "id": "PKU-Alignment/beaver-7b-v1.0-cost",
+    "task": "reinforcement-learning",
+    "downloads": 1179,
+    "likes": 10,
+    "tags": "safe-rlhf, safetensors, llama, reinforcement-learning-from-human-feedback, reinforcement-learning, beaver, safety, ai-safety",
+    "description": "The Beaver cost model is a preference model trained using the [PKU-SafeRLHF](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF) dataset."
+  },
+  {
+    "id": "PramaLLC/BEN2",
+    "task": "image-segmentation",
+    "downloads": 81380,
+    "likes": 228,
+    "tags": "ben2, onnx, safetensors, BEN2, background-remove, mask-generation, Dichotomous image segmentation, background remove",
+    "description": "BEN2 (Background Erase Network) introduces a novel approach to foreground segmentation through its innovative Confidence Guided Matting (CGM) pipeline. The architecture employs a refiner network that "
+  },
+  {
+    "id": "microsoft/speecht5_vc",
+    "task": "audio-to-audio",
+    "downloads": 2004,
+    "likes": 111,
+    "tags": "transformers, pytorch, speecht5, audio, audio-to-audio, dataset:cmu-arctic, arxiv:2110.07205, license:mit",
+    "description": "SpeechT5 model fine-tuned for voice conversion (speech-to-speech) on CMU ARCTIC."
+  },
+  {
+    "id": "asosoft/KuBERT-Central-Kurdish-BERT-Model",
+    "task": "zero-shot-classification",
+    "downloads": 315,
+    "likes": 6,
+    "tags": "transformers, safetensors, bert, feature-extraction, zero-shot-classification, endpoints_compatible, deploy:azure, region:us",
+    "description": "KuBERT-Central-Kurdish-BERT-Model harnesses the BERT framework to enhance computational linguistics for the Central Kurdish language. This initiative is a response to the scarcity of resources and com"
+  },
+  {
+    "id": "Cognitive-Lab/ColNetraEmbed",
+    "task": "visual-document-retrieval",
+    "downloads": 137,
+    "likes": 4,
+    "tags": "transformers, safetensors, gemma3, image-text-to-text, vision-language, retrieval, colbert, late-interaction",
+    "description": "**ColNetraEmbed** is a state-of-the-art multilingual multimodal embedding model for visual document retrieval, powered by the Gemma3 backbone and using Colbert-style multi-vector representations."
+  },
+  {
+    "id": "timm/efficientnetv2_rw_m.agc_in1k",
+    "task": "image-classification",
+    "downloads": 59908,
+    "likes": 1,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, arxiv:2110.00476, arxiv:2104.00298",
+    "description": "A EfficientNet-v2 image classification model. This is a `timm` specific variation of the architecture. Trained on ImageNet-1k in `timm` using recipe template described below."
+  },
+  {
+    "id": "timm/convnext_base.clip_laion2b",
+    "task": "image-feature-extraction",
+    "downloads": 96334,
+    "likes": 0,
+    "tags": "timm, pytorch, safetensors, image-feature-extraction, transformers, license:apache-2.0, region:us",
+    "description": "`timm` CLIP (image encoder only) weights from https://huggingface.co/laion/CLIP-convnext_base_w-laion2B-s13B-b82K"
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-DiseaseDetect-BioMed-335M",
+    "task": "token-classification",
+    "downloads": 161134,
+    "likes": 7,
+    "tags": "transformers, safetensors, bert, token-classification, named-entity-recognition, biomedical-nlp, disease-entity-recognition, medical-diagnosis",
+    "description": "**Specialized model for Disease Entity Recognition - Disease entities from the BC5CDR dataset**"
+  },
+  {
+    "id": "openmmlab/upernet-swin-large",
+    "task": "image-segmentation",
+    "downloads": 6847,
+    "likes": 1,
+    "tags": "transformers, pytorch, safetensors, upernet, vision, image-segmentation, en, arxiv:1807.10221",
+    "description": "UperNet framework for semantic segmentation, leveraging a Swin Transformer backbone. UperNet was introduced in the paper [Unified Perceptual Parsing for Scene Understanding](https://arxiv.org/abs/1807"
+  },
+  {
+    "id": "mlx-community/parakeet-tdt-0.6b-v3",
+    "task": "automatic-speech-recognition",
+    "downloads": 468851,
+    "likes": 38,
+    "tags": "mlx, safetensors, automatic-speech-recognition, speech, audio, FastConformer, Conformer, Parakeet",
+    "description": "This model was converted to MLX format from [nvidia/parakeet-tdt-0.6b-v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3) using [the conversion script](https://gist.github.com/senstella/77178bb5d6"
+  },
+  {
+    "id": "PaddlePaddle/PP-FormulaNet_plus-L",
+    "task": "image-to-text",
+    "downloads": 5981,
+    "likes": 3,
+    "tags": "PaddleOCR, OCR, PaddlePaddle, formula_recognition, image-to-text, en, zh, license:apache-2.0",
+    "description": "PP-FormulaNet_plus is an enhanced version of the formula recognition model developed by the PaddleOCR Team, building upon the original PP-FormulaNet. Compared to the original version, PP-FormulaNet_pl"
+  },
+  {
+    "id": "shipitirl/Hunyuan3D-2.1",
+    "task": "image-to-3d",
+    "downloads": 55,
+    "likes": 0,
+    "tags": "hunyuan3d-2, diffusers, safetensors, image-to-3d, text-to-3d, en, zh, arxiv:2506.15442",
+    "description": "If you found this repository helpful, please cite our report:"
+  },
+  {
+    "id": "hotchpotch/japanese-reranker-cross-encoder-base-v1",
+    "task": "text-ranking",
+    "downloads": 1069,
+    "likes": 2,
+    "tags": "sentence-transformers, safetensors, bert, text-ranking, ja, dataset:hotchpotch/JQaRA, dataset:shunk031/JGLUE, dataset:miracl/miracl",
+    "description": "\u65e5\u672c\u8a9e\u3067\u5b66\u7fd2\u3055\u305b\u305f Reranker (CrossEncoder) \u30b7\u30ea\u30fc\u30ba\u3067\u3059\u3002"
+  },
+  {
+    "id": "moussaKam/barthez-orangesum-abstract",
+    "task": "summarization",
+    "downloads": 562,
+    "likes": 7,
+    "tags": "transformers, pytorch, mbart, text2text-generation, summarization, bart, fr, arxiv:2010.12321",
+    "description": "finetuning: examples/seq2seq (as of Feb 08 2021)"
+  },
+  {
+    "id": "lmstudio-community/gemma-3n-E4B-it-MLX-4bit",
+    "task": "image-text-to-text",
+    "downloads": 338347,
+    "likes": 2,
+    "tags": "transformers, safetensors, gemma3n, image-text-to-text, automatic-speech-recognition, automatic-speech-translation, audio-text-to-text, video-text-to-text",
+    "description": "*\ud83d\udc7e [LM Studio](https://lmstudio.ai) Community models highlights program. Highlighting new & noteworthy models by the community. Join the conversation on [Discord](https://discord.gg/aPQfnNkxGC)*."
+  },
+  {
+    "id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+    "task": "automatic-speech-recognition",
+    "downloads": 1846498,
+    "likes": 12,
+    "tags": "transformers, pytorch, jax, wav2vec2, automatic-speech-recognition, audio, hf-asr-leaderboard, mozilla-foundation/common_voice_6_0",
+    "description": "Fine-tuned [facebook/wav2vec2-large-xlsr-53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) on Polish using the train and validation splits of [Common Voice 6.1](https://huggingface.co/datase"
+  },
+  {
+    "id": "unslothai/vram-80",
+    "task": "feature-extraction",
+    "downloads": 142662,
+    "likes": 0,
+    "tags": "transformers, safetensors, llama, feature-extraction, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "mradermacher/flawed-fictions-qwen3-4b-i1-GGUF",
+    "task": "reinforcement-learning",
+    "downloads": 1039,
+    "likes": 0,
+    "tags": "transformers, gguf, reinforcement-learning, grpo, flawed-fictions, qwen3, continuity-detection, synthetic-data",
+    "description": "weighted/imatrix quants of https://huggingface.co/agurung/flawed-fictions-qwen3-4b"
+  },
+  {
+    "id": "PhilipC/HumanOmniV2",
+    "task": "video-text-to-text",
+    "downloads": 399,
+    "likes": 19,
+    "tags": "transformers, safetensors, qwen2_5_omni_thinker, image-text-to-text, video-text-to-text, arxiv:2506.21277, license:apache-2.0, endpoints_compatible",
+    "description": "- Paper: [HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context](https://huggingface.co/papers/2506.21277) ([Arxiv](https://arxiv.org/abs/2506.21277))"
+  },
+  {
+    "id": "timm/edgenext_small.usi_in1k",
+    "task": "image-classification",
+    "downloads": 271619,
+    "likes": 6,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, arxiv:2206.10589, arxiv:2204.03475",
+    "description": "An EdgeNeXt image classification model. Trained on ImageNet-1k by paper authors using distillation (`USI` as per `Solving ImageNet`)."
+  },
+  {
+    "id": "ostris/zimage_turbo_training_adapter",
+    "task": "text-to-image",
+    "downloads": 49241,
+    "likes": 132,
+    "tags": "diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo, license:apache-2.0, region:us",
+    "description": "This is a training adapter designed to be used for fine-tuning [Tongyi-MAI/Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)."
+  },
+  {
+    "id": "OpenGVLab/VideoMAEv2-giant",
+    "task": "video-classification",
+    "downloads": 584,
+    "likes": 5,
+    "tags": "safetensors, VideoMAEv2_Base, vision, video-classification, custom_code, arxiv:2203.12602, arxiv:2303.16727, license:cc-by-nc-4.0",
+    "description": "VideoMAEv2-giant model pre-trained for 1200 epochs in a self-supervised way on UnlabeldHybrid-1M dataset. It was introduced in the paper [[CVPR23]VideoMAE V2: Scaling Video Masked Autoencoders with Du"
+  },
+  {
+    "id": "gokulkarthik/xlm-roberta-qa-chaii",
+    "task": "question-answering",
+    "downloads": 2079,
+    "likes": 0,
+    "tags": "transformers, pytorch, xlm-roberta, question-answering, en, ta, hi, dataset:squad",
+    "description": "pre-trained XLM-Roberta with intermediate pre-training on SQUAD dataset (English) and fine tuning on Chaii dataset (Tamil, Hindi)"
+  },
+  {
+    "id": "gudaochangsheng/RefAlign-1.3B",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "image-text-to-video, dataset:BestWishYsh/OpenS2V-5M, dataset:ZhuoweiChen/Phantom-data-Koala36M, arxiv:2603.25743, base_model:Wan-AI/Wan2.1-T2V-1.3B, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B, license:mit, region:us",
+    "description": "&dagger;Corresponding authors *Interns in Baidu Inc. &ddagger;Equal Contribution"
+  },
+  {
+    "id": "leejet/Z-Image-Turbo-GGUF",
+    "task": "text-to-image",
+    "downloads": 24527,
+    "likes": 37,
+    "tags": "gguf, text-to-image, image-generation, stable-diffusion.cpp, z-image-turbo, z-image, en, zh",
+    "description": "The license of the quantized files follows the license of the original model:"
+  },
+  {
+    "id": "QiWang98/VideoRFT",
+    "task": "video-text-to-text",
+    "downloads": 200,
+    "likes": 5,
+    "tags": "transformers, safetensors, qwen2_5_vl, image-text-to-text, video-text-to-text, en, dataset:QiWang98/VideoRFT-Data, arxiv:2505.12434",
+    "description": "This repository contains the `VideoRFT` model, presented in the paper [VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://huggingface.co/papers/2505.12434)"
+  },
+  {
+    "id": "wangdy/autotrain-godaddy2-38507101578",
+    "task": "tabular-regression",
+    "downloads": 1,
+    "likes": 0,
+    "tags": "transformers, joblib, knn, autotrain, tabular, regression, tabular-regression, dataset:wangdy/autotrain-data-godaddy2",
+    "description": "- Problem type: Single Column Regression"
+  },
+  {
+    "id": "facebook/mbart-large-cc25",
+    "task": "translation",
+    "downloads": 11112,
+    "likes": 69,
+    "tags": "transformers, pytorch, tf, mbart, text2text-generation, translation, en, ar",
+    "description": "Pretrained (not finetuned) multilingual mbart model."
+  },
+  {
+    "id": "timm/convnext_small.in12k_ft_in1k",
+    "task": "image-classification",
+    "downloads": 49019,
+    "likes": 0,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, dataset:imagenet-12k, arxiv:2201.03545",
+    "description": "A ConvNeXt image classification model. Pretrained in `timm` on ImageNet-12k (a 11821 class subset of full ImageNet-22k) and fine-tuned on ImageNet-1k by Ross Wightman."
+  },
+  {
+    "id": "Qwen/Qwen3.5-35B-A3B-FP8",
+    "task": "image-text-to-text",
+    "downloads": 1867601,
+    "likes": 146,
+    "tags": "transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, base_model:Qwen/Qwen3.5-35B-A3B, base_model:quantized:Qwen/Qwen3.5-35B-A3B, license:apache-2.0",
+    "description": "> This repository contains FP8-quantized model weights and configuration files for the post-trained model in the Hugging Face Transformers format."
+  },
+  {
+    "id": "alexeisenach/SD3.5-Med-LoRA-Lineart",
+    "task": "image-text-to-image",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "image-text-to-image, en, base_model:stabilityai/stable-diffusion-3.5-medium, base_model:finetune:stabilityai/stable-diffusion-3.5-medium, region:us",
+    "description": ""
+  },
+  {
+    "id": "nvidia/NV-Generate-MR-Brain",
+    "task": "unconditional-image-generation",
+    "downloads": 334,
+    "likes": 16,
+    "tags": "latent_diffusion, medical-imaging, diffusion, unconditional-image-generation, dataset:Forithmus/MR-RATE, arxiv:2508.05772, arxiv:2409.11169, license:other",
+    "description": "NV-Generate-MR-Brain is a three-dimensional (3D) latent diffusion model designed to generate high-quality synthetic brain magnetic resonance imaging (MRI) images, achieving the highest resolution and "
+  },
+  {
+    "id": "Prior-Labs/tabpfn_2_6",
+    "task": "tabular-classification",
+    "downloads": 7860,
+    "likes": 14,
+    "tags": "chemistry, biology, finance, legal, climate, medical, tabular-classification, license:other",
+    "description": "TabPFN-2.6 is a transformer-based foundation model that uses in-context-learning to solve tabular prediction problems in a forward pass."
+  },
+  {
+    "id": "ductai199x/sam_hq_vit_huge",
+    "task": "mask-generation",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "transformers, safetensors, sam_hq, mask-generation, custom_code, arxiv:2306.01567, license:apache-2.0, endpoints_compatible",
+    "description": "Directly converted weights from [https://github.com/SysCV/sam-hq/tree/main](https://github.com/SysCV/sam-hq/tree/main) to huggingface format."
+  },
+  {
+    "id": "llmrobot/qwen-image-layered-int8-sdnq",
+    "task": "image-text-to-image",
+    "downloads": 5,
+    "likes": 0,
+    "tags": "diffusers, safetensors, quantized, qwen, image-text-to-image, en, zh, base_model:Qwen/Qwen-Image-Layered",
+    "description": "8 bit (int8 with SVD rank 128) quantization of [Qwen/Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered) using [SDNQ](https://github.com/Disty0/sdnq)."
+  },
+  {
+    "id": "bibekbehera/autotrain-numeric_prediction-40376105019",
+    "task": "tabular-regression",
+    "downloads": 9,
+    "likes": 0,
+    "tags": "transformers, joblib, xgboost, autotrain, tabular, regression, tabular-regression, dataset:bibekbehera/autotrain-data-numeric_prediction",
+    "description": "- Problem type: Single Column Regression"
+  },
+  {
+    "id": "Qwen/Qwen3-0.6B",
+    "task": "text-generation",
+    "downloads": 15063024,
+    "likes": 1190,
+    "tags": "transformers, safetensors, qwen3, text-generation, conversational, arxiv:2505.09388, base_model:Qwen/Qwen3-0.6B-Base, base_model:finetune:Qwen/Qwen3-0.6B-Base",
+    "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groun"
+  },
+  {
+    "id": "BAAI/bge-small-zh-v1.5",
+    "task": "feature-extraction",
+    "downloads": 1793287,
+    "likes": 109,
+    "tags": "transformers, pytorch, safetensors, bert, feature-extraction, zh, arxiv:2310.07554, arxiv:2309.07597",
+    "description": "More details please refer to our Github: [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)."
+  },
+  {
+    "id": "SWivid/F5-TTS",
+    "task": "text-to-speech",
+    "downloads": 668808,
+    "likes": 1160,
+    "tags": "f5-tts, text-to-speech, dataset:amphion/Emilia-Dataset, arxiv:2410.06885, license:cc-by-nc-4.0, region:us",
+    "description": "Download [F5-TTS](https://huggingface.co/SWivid/F5-TTS/tree/main/F5TTS_Base) or [E2 TTS](https://huggingface.co/SWivid/E2-TTS/tree/main/E2TTS_Base) and place under ckpts/"
+  },
+  {
+    "id": "image-matching-models/eloftr",
+    "task": "keypoint-detection",
+    "downloads": 82,
+    "likes": 0,
+    "tags": "image-matching-models, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/image-matching-models"
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-zh-en",
+    "task": "translation",
+    "downloads": 206963,
+    "likes": 551,
+    "tags": "transformers, pytorch, tf, rust, marian, text2text-generation, translation, zh",
+    "description": "- [Model Details](#model-details)"
+  },
+  {
+    "id": "iitolstykh/YOLO-Face-Person-Detector",
+    "task": "object-detection",
+    "downloads": 8179,
+    "likes": 15,
+    "tags": "ultralytics, safetensors, yolov8, yolo, object-detection, computer-vision, face-detection, person-detection",
+    "description": "This model is a fine-tuned version of **YOLOv8x** specialized in detecting two specific classes: **Face** and **Person**."
+  },
+  {
+    "id": "lighteternal/nli-xlm-r-greek",
+    "task": "zero-shot-classification",
+    "downloads": 18846,
+    "likes": 2,
+    "tags": "transformers, pytorch, xlm-roberta, text-classification, xlm-roberta-base, zero-shot-classification, el, en",
+    "description": "This model was trained using [SentenceTransformers](https://sbert.net) [Cross-Encoder](https://www.sbert.net/examples/applications/cross-encoder/README.html) class."
+  },
+  {
+    "id": "Dhineshk/TestDocumentQuestionAnswering",
+    "task": "document-question-answering",
+    "downloads": 6,
+    "likes": 0,
+    "tags": "transformers, pytorch, layoutlmv2, document-question-answering, generated_from_trainer, base_model:microsoft/layoutlmv2-base-uncased, base_model:finetune:microsoft/layoutlmv2-base-uncased, license:cc-by-nc-sa-4.0",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "keras-io/tab_transformer",
+    "task": "tabular-classification",
+    "downloads": 8,
+    "likes": 43,
+    "tags": "tf-keras, tensorboard, tabular-classification, transformer, region:us",
+    "description": "This repo contains the trained model of [Structured data learning with TabTransformer](https://keras.io/examples/structured_data/tabtransformer/#define-dataset-metadata)."
+  },
+  {
+    "id": "dzur658/mlx-unet-mnist",
+    "task": "image-text-to-image",
+    "downloads": 32,
+    "likes": 0,
+    "tags": "mlx, image-text-to-image, license:mit, region:us",
+    "description": "This is a toy model I made trained on the MNIST numbers dataset using MLX. It can draw the digits 0-9."
+  },
+  {
+    "id": "magespace/Wan2.2-I2V-A14B-Lightning-Diffusers",
+    "task": "text-to-video",
+    "downloads": 39198,
+    "likes": 2,
+    "tags": "diffusers, safetensors, text-to-video, arxiv:2503.20314, arxiv:2309.14509, license:apache-2.0, diffusers:WanImageToVideoPipeline, region:us",
+    "description": "\ud83d\udc9c <a href=\"https://wan.video\"><b>Wan</b></a> &nbsp&nbsp \uff5c &nbsp&nbsp \ud83d\udda5\ufe0f <a href=\"https://github.com/Wan-Video/Wan2.2\">GitHub</a> &nbsp&nbsp  | &nbsp&nbsp\ud83e\udd17 <a href=\"https://huggingface.co/Wan-AI/\">Hugg"
+  },
+  {
+    "id": "facebook/sam2.1-hiera-tiny",
+    "task": "mask-generation",
+    "downloads": 26593,
+    "likes": 23,
+    "tags": "transformers, safetensors, sam2_video, feature-extraction, mask-generation, arxiv:2408.00714, license:apache-2.0, endpoints_compatible",
+    "description": "Repository for SAM 2: Segment Anything in Images and Videos, a foundation model towards solving promptable visual segmentation in images and videos from FAIR. See the [SAM 2 paper](https://arxiv.org/a"
+  },
+  {
+    "id": "Crosby117/Poison",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "allennlp, agent, image-text-to-video, en, dataset:Roman1111111/claude-opus-4.6-10000x, arxiv:1910.09700, base_model:hakurei/Literature-7B-16384, base_model:finetune:hakurei/Literature-7B-16384",
+    "description": "This modelcard aims to be a base template for new models. It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/modelca"
+  },
+  {
+    "id": "iloncka/culico-net-segm-v1-nano",
+    "task": "mask-generation",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "sam2, mask-generation, segmentation, instance-segmentation, video-segmentation, dataset:iloncka/mosquito-species-segmentation-dataset, arxiv:2408.00714, base_model:facebook/sam2-hiera-tiny",
+    "description": "Model Card for `culico-net-segm-v1-nano`"
+  },
+  {
+    "id": "facebook/mms-tts-eng",
+    "task": "text-to-speech",
+    "downloads": 144837,
+    "likes": 175,
+    "tags": "transformers, pytorch, safetensors, vits, text-to-audio, mms, text-to-speech, arxiv:2305.13516",
+    "description": "This repository contains the **English (eng)** language text-to-speech (TTS) model checkpoint."
+  },
+  {
+    "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+    "task": "image-text-to-image",
+    "downloads": 578026,
+    "likes": 263,
+    "tags": "gguf, qwen3_5, unsloth, qwen, qwen3.5, reasoning, chain-of-thought, lora",
+    "description": "\ud83d\udd25 **Update (April 5):** I\u2019ve released the complete training notebook, codebase, and a comprehensive PDF guide to help beginners and enthusiasts understand and reproduce this model's fine-tuning proces"
+  },
+  {
+    "id": "PORTULAN/serafim-335m-portuguese-pt-sentence-encoder-ir",
+    "task": "sentence-similarity",
+    "downloads": 277455,
+    "likes": 0,
+    "tags": "sentence-transformers, safetensors, bert, feature-extraction, sentence-similarity, transformers, pt, arxiv:2407.19527",
+    "description": "This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 1024 dimensional dense vector space and can be used for tasks like clustering or semantic search."
+  },
+  {
+    "id": "chenjh007/image-model",
+    "task": "image-text-to-image",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "transformers, image-text-to-image, zh, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:apache-2.0, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "tiennvcs/layoutlmv2-large-uncased-finetuned-vi-infovqa",
+    "task": "document-question-answering",
+    "downloads": 9,
+    "likes": 0,
+    "tags": "transformers, pytorch, tensorboard, layoutlmv2, document-question-answering, generated_from_trainer, license:cc-by-nc-sa-4.0, endpoints_compatible",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "tianweiy/DMD2",
+    "task": "text-to-image",
+    "downloads": 52544,
+    "likes": 235,
+    "tags": "diffusers, text-to-image, stable-diffusion, diffusion distillation, arxiv:2405.14867, license:cc-by-nc-4.0, region:us",
+    "description": "> [**Improved Distribution Matching Distillation for Fast Image Synthesis**](https://arxiv.org/abs/2405.14867),"
+  },
+  {
+    "id": "Video-R1/Video-R1-7B",
+    "task": "video-text-to-text",
+    "downloads": 732,
+    "likes": 15,
+    "tags": "transformers, safetensors, qwen2_5_vl, image-text-to-text, video-text-to-text, en, dataset:Video-R1/Video-R1-data, arxiv:2503.21776",
+    "description": "This repository contains the Video-R1-7B model as presented in [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776)."
+  },
+  {
+    "id": "Qwen/Qwen3-4B-Thinking-2507",
+    "task": "text-generation",
+    "downloads": 1702160,
+    "likes": 578,
+    "tags": "transformers, safetensors, qwen3, text-generation, conversational, arxiv:2505.09388, license:apache-2.0, eval-results",
+    "description": "Over the past three months, we have continued to scale the **thinking capability** of Qwen3-4B, improving both the **quality and depth** of reasoning. We are pleased to introduce **Qwen3-4B-Thinking-2"
+  },
+  {
+    "id": "cavargas10/TRELLIS-text-xlarge",
+    "task": "text-to-3d",
+    "downloads": 70,
+    "likes": 0,
+    "tags": "trellis, text-to-3d, en, arxiv:2412.01506, license:mit, region:us",
+    "description": "The text conditioned version of TRELLIS with model size XL, a large 3D genetive model. It was introduced in the paper [Structured 3D Latents for Scalable and Versatile 3D Generation](https://huggingfa"
+  },
+  {
+    "id": "pnnbao-ump/VieNeu-TTS",
+    "task": "text-to-speech",
+    "downloads": 15899,
+    "likes": 68,
+    "tags": "safetensors, qwen2, text-to-speech, vi, dataset:pnnbao-ump/VieNeu-TTS-1000h, dataset:pnnbao-ump/VieNeu-TTS-140h, base_model:neuphonic/neutts-air, base_model:finetune:neuphonic/neutts-air",
+    "description": "**VieNeu-TTS** is an advanced on-device Vietnamese Text-to-Speech (TTS) model with **instant voice cloning**."
+  },
+  {
+    "id": "timm/vit_base_patch32_clip_224.laion400m_e31",
+    "task": "zero-shot-image-classification",
+    "downloads": 38029,
+    "likes": 0,
+    "tags": "open_clip, safetensors, clip, zero-shot-image-classification, license:mit, region:us",
+    "description": "This model is a dual use `open_clip` and `timm` model. Model name in OpenCLIP is `ViT-B-32-quickgelu`, and timm name is `vit_base_patch32_clip_224.laion400m_e31`."
+  },
+  {
+    "id": "MHRDYN7/videoprism-base-f16r288-finetuned-ucf101",
+    "task": "video-classification",
+    "downloads": 100,
+    "likes": 0,
+    "tags": "transformers, safetensors, videoprism_vision_model, video-classification, dataset:sayakpaul/ucf101-subset, arxiv:1910.09700, endpoints_compatible, region:us",
+    "description": "This is the model card of a \ud83e\udd17 transformers model that has been pushed on the Hub. This model card has been automatically generated."
+  },
+  {
+    "id": "Cosmicvibez/LTX-2.3",
+    "task": "image-to-video",
+    "downloads": 3829,
+    "likes": 1,
+    "tags": "diffusers, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video, text-to-audio, video-to-audio",
+    "description": "This model card focuses on the LTX-2.3 model, which is a significant update to the [LTX-2 model](https://huggingface.co/Lightricks/LTX-2) with improved audio and visual quality as well as enhanced pro"
+  },
+  {
+    "id": "microsoft/dit-base-finetuned-rvlcdip",
+    "task": "image-classification",
+    "downloads": 70945,
+    "likes": 37,
+    "tags": "transformers, pytorch, beit, image-classification, dit, vision, dataset:rvl_cdip, arxiv:2203.02378",
+    "description": "Document Image Transformer (DiT) model pre-trained on IIT-CDIP (Lewis et al., 2006), a dataset that includes 42 million document images and fine-tuned on [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl"
+  },
+  {
+    "id": "pnnbao-ump/VieNeu-TTS-v2-Turbo-GGUF",
+    "task": "text-to-speech",
+    "downloads": 17777,
+    "likes": 3,
+    "tags": "gguf, tts, vietnamese, bilingual, onnx, cpu-inference, code-switching, on-device",
+    "description": "> **Ultra-fast Vietnamese & English TTS \u2014 runs entirely on CPU, no GPU required.**"
+  },
+  {
+    "id": "jetx/trellis-image-large",
+    "task": "image-to-3d",
+    "downloads": 17762,
+    "likes": 8,
+    "tags": "trellis, image-to-3d, en, arxiv:2412.01506, license:mit, region:us",
+    "description": "The image conditioned version of TRELLIS, a large 3D genetive model. It was introduced in the paper [Structured 3D Latents for Scalable and Versatile 3D Generation](https://huggingface.co/papers/2412."
+  },
+  {
+    "id": "google-t5/t5-large",
+    "task": "translation",
+    "downloads": 526817,
+    "likes": 256,
+    "tags": "transformers, pytorch, tf, jax, safetensors, t5, text2text-generation, summarization",
+    "description": "1. [Model Details](#model-details)"
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-GenomeDetect-SuperClinical-434M",
+    "task": "token-classification",
+    "downloads": 90994,
+    "likes": 5,
+    "tags": "transformers, safetensors, deberta-v2, token-classification, named-entity-recognition, biomedical-nlp, gene-recognition, protein-recognition",
+    "description": "**Specialized model for Gene/Protein Entity Recognition - Gene and protein mentions**"
+  },
+  {
+    "id": "ali-vilab/text-to-video-ms-1.7b",
+    "task": "text-to-video",
+    "downloads": 21304,
+    "likes": 656,
+    "tags": "diffusers, safetensors, text-to-video, arxiv:2308.06571, license:cc-by-nc-4.0, diffusers:TextToVideoSDPipeline, region:us",
+    "description": "This model is based on a multi-stage text-to-video generation diffusion model, which inputs a description text and returns a video that matches the text description. Only English input is supported."
+  },
+  {
+    "id": "google/tapas-base-finetuned-sqa",
+    "task": "table-question-answering",
+    "downloads": 1403,
+    "likes": 7,
+    "tags": "transformers, pytorch, tf, tapas, table-question-answering, en, dataset:msr_sqa, arxiv:2004.02349",
+    "description": "This model has 2 versions which can be used. The default version corresponds to the `tapas_sqa_inter_masklm_base_reset` checkpoint of the [original Github repository](https://github.com/google-researc"
+  },
+  {
+    "id": "IMISLab/GreekWiki-umt5-base",
+    "task": "summarization",
+    "downloads": 6338,
+    "likes": 1,
+    "tags": "safetensors, umt5, summarization, el, license:apache-2.0, model-index, region:us",
+    "description": "A Greek encyclopedic article summarization model trained and evaluated on [GreekWikipedia](https://huggingface.co/datasets/IMISLab/GreekWikipedia/)."
+  },
+  {
+    "id": "lmstudio-community/gemma-4-E2B-it-MLX-4bit",
+    "task": "any-to-any",
+    "downloads": 2372,
+    "likes": 0,
+    "tags": "transformers, safetensors, gemma4, image-text-to-text, mlx, any-to-any, base_model:google/gemma-4-E2B-it, base_model:quantized:google/gemma-4-E2B-it",
+    "description": "_\ud83d\udc7e [LM Studio](https://lmstudio.ai) Community models highlights program. Highlighting new & noteworthy models by the community. Join the conversation on [Discord](https://discord.gg/aPQfnNkxGC)_."
+  },
+  {
+    "id": "jzsues/llava-qwen1.5-4b-chat",
+    "task": "visual-question-answering",
+    "downloads": 194,
+    "likes": 0,
+    "tags": "transformers, safetensors, llava-qwen2, text-generation, visual-question-answering, zh, en, dataset:Lin-Chen/ShareGPT4V",
+    "description": "llava-qwen1.5-4b-chat is a lightweight multimodal models base on [LLaVA architecture](https://llava-vl.github.io/)."
+  },
+  {
+    "id": "OpenMed/OpenMed-NER-SpeciesDetect-ModernMed-149M",
+    "task": "token-classification",
+    "downloads": 109723,
+    "likes": 0,
+    "tags": "transformers, safetensors, modernbert, token-classification, named-entity-recognition, biomedical-nlp, species-recognition, taxonomy",
+    "description": "**Specialized model for Species Entity Recognition - Species and organism names**"
+  },
+  {
+    "id": "HiDolen/Mini-BS-RoFormer-V2-46.8M",
+    "task": "audio-to-audio",
+    "downloads": 213,
+    "likes": 4,
+    "tags": "transformers, safetensors, bs_roformer, feature-extraction, music, audio-to-audio, custom_code, dataset:CLAPv2/MUSDB18-HQ",
+    "description": "Model for the Music source separation task."
+  },
+  {
+    "id": "meituan-longcat/LongCat-Image-Edit",
+    "task": "image-to-image",
+    "downloads": 23518,
+    "likes": 169,
+    "tags": "transformers, diffusers, safetensors, image-to-image, en, zh, arxiv:2512.07584, license:apache-2.0",
+    "description": "[//]: # (  <a href='https://meituan-longcat.github.io/LongCat-Image/'><img src='https://img.shields.io/badge/Project-Page-green'></a>)"
+  },
+  {
+    "id": "microsoft/mpnet-base",
+    "task": "fill-mask",
+    "downloads": 132678,
+    "likes": 50,
+    "tags": "transformers, pytorch, tf, safetensors, mpnet, fill-mask, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "prabinpanta0/celsius-to-fahrenheit",
+    "task": "tabular-regression",
+    "downloads": 17,
+    "likes": 3,
+    "tags": "tf-keras, temperature-conversion, celsius-to-fahrenheit, tensorflow, neural-network, tabular-regression, en, dataset:prabinpanta0/celsius-to-fahrenheit",
+    "description": "This model is a simple neural network that converts temperatures from Celsius to Fahrenheit."
+  },
+  {
+    "id": "vismatch/xfeat",
+    "task": "keypoint-detection",
+    "downloads": 584,
+    "likes": 0,
+    "tags": "vismatch, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/vismatch"
+  },
+  {
+    "id": "deepvk/GeRaCl-USER2-base",
+    "task": "zero-shot-classification",
+    "downloads": 1242,
+    "likes": 18,
+    "tags": "safetensors, GeRaCl, zero-shot-classification, ru, dataset:deepvk/GeRaCl_synthethic_dataset, base_model:deepvk/USER2-base, base_model:finetune:deepvk/USER2-base, license:apache-2.0",
+    "description": "**GeRaCl** is a **Ge**neral **Ra**pid **Cl**assifer designed to perform zero-shot classification tasks primarily on Russian texts."
+  },
+  {
+    "id": "google/pegasus-billsum",
+    "task": "summarization",
+    "downloads": 245,
+    "likes": 4,
+    "tags": "transformers, pytorch, pegasus, text2text-generation, summarization, en, arxiv:1912.08777, endpoints_compatible",
+    "description": "See Docs: [here](https://huggingface.co/transformers/master/model_doc/pegasus.html)"
+  },
+  {
+    "id": "Qwen/Qwen3-32B",
+    "task": "text-generation",
+    "downloads": 2394515,
+    "likes": 681,
+    "tags": "transformers, safetensors, qwen3, text-generation, conversational, arxiv:2309.00071, arxiv:2505.09388, license:apache-2.0",
+    "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groun"
+  },
+  {
+    "id": "CAIR-HKISI/SurgMotion-vitl",
+    "task": "video-classification",
+    "downloads": 77,
+    "likes": 4,
+    "tags": "pytorch, surgmotion, surgical-video, foundation-model, video-understanding, phase-recognition, v-jepa, vision-transformer",
+    "description": "SurgMotion-L is the ViT-Large checkpoint of SurgMotion, a video-native foundation model for universal understanding of surgical videos."
+  },
+  {
+    "id": "facehain/LTX2-Rapid-Merges",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "ltx2, t2v, i2v, image-text-to-video, base_model:Lightricks/LTX-2, base_model:finetune:Lightricks/LTX-2, license:other, region:us",
+    "description": "**I'm winding down maintaining these models. I recommend checking out the [merging script](https://huggingface.co/Phr00t/LTX2-Rapid-Merges/blob/main/MergingScript/fancy-apply.py) to create your own, a"
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-en-uk",
+    "task": "translation",
+    "downloads": 9625,
+    "likes": 16,
+    "tags": "transformers, pytorch, tf, marian, text2text-generation, translation, en, uk",
+    "description": "*  OPUS readme: [en-uk](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/models/en-uk/README.md)"
+  },
+  {
+    "id": "PaddlePaddle/th_PP-OCRv5_mobile_rec",
+    "task": "image-to-text",
+    "downloads": 1608,
+    "likes": 2,
+    "tags": "PaddleOCR, OCR, PaddlePaddle, textline_recognition, image-to-text, en, license:apache-2.0, region:us",
+    "description": "th_PP-OCRv5_mobile_rec is one of the PP-OCRv5_rec that are the latest generation text line recognition models developed by PaddleOCR team. It aims to efficiently and accurately support the recognition"
+  },
+  {
+    "id": "Joy28/videomae-base-finetuned-subset-200epochs",
+    "task": "video-classification",
+    "downloads": 73,
+    "likes": 0,
+    "tags": "transformers, safetensors, videomae, video-classification, generated_from_trainer, base_model:MCG-NJU/videomae-base, base_model:finetune:MCG-NJU/videomae-base, license:cc-by-nc-4.0",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "unitary/toxic-bert",
+    "task": "text-classification",
+    "downloads": 290187,
+    "likes": 220,
+    "tags": "transformers, pytorch, jax, safetensors, bert, text-classification, arxiv:1703.04009, arxiv:1905.12516",
+    "description": "The huggingface models currently give different results to the detoxify library (see issue [here](https://github.com/unitaryai/detoxify/issues/15)). For the most up to date models we recommend using t"
+  },
+  {
+    "id": "laion/CLIP-ViT-H-14-laion2B-s32B-b79K",
+    "task": "zero-shot-image-classification",
+    "downloads": 399870,
+    "likes": 452,
+    "tags": "open_clip, pytorch, safetensors, clip, zero-shot-image-classification, arxiv:1910.04867, license:mit, region:us",
+    "description": "1. [Model Details](#model-details)"
+  },
+  {
+    "id": "apple/MobileCLIP-S2-OpenCLIP",
+    "task": "zero-shot-image-classification",
+    "downloads": 64306,
+    "likes": 19,
+    "tags": "open_clip, safetensors, clip, zero-shot-image-classification, arxiv:2311.17049, arxiv:2103.00020, arxiv:2303.15343, arxiv:2309.17425",
+    "description": "MobileCLIP was introduced in [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training"
+  },
+  {
+    "id": "lllyasviel/control_v11p_sd15_openpose",
+    "task": "image-to-image",
+    "downloads": 16238,
+    "likes": 135,
+    "tags": "diffusers, safetensors, art, controlnet, stable-diffusion, controlnet-v1-1, image-to-image, arxiv:2302.05543",
+    "description": "**Controlnet v1.1** is the successor model of [Controlnet v1.0](https://huggingface.co/lllyasviel/ControlNet)"
+  },
+  {
+    "id": "srg/outhimar_64-Close-regression",
+    "task": "tabular-regression",
+    "downloads": 0,
+    "likes": 4,
+    "tags": "sklearn, tabular-regression, baseline-trainer, license:apache-2.0, region:us",
+    "description": "r2                        0.999858"
+  },
+  {
+    "id": "bartowski/LLaMA-Mesh-GGUF",
+    "task": "text-to-3d",
+    "downloads": 1291,
+    "likes": 36,
+    "tags": "gguf, mesh-generation, text-to-3d, base_model:Zhengyi/LLaMA-Mesh, base_model:quantized:Zhengyi/LLaMA-Mesh, license:llama3.1, endpoints_compatible, region:us",
+    "description": "Using <a href=\"https://github.com/ggerganov/llama.cpp/\">llama.cpp</a> release <a href=\"https://github.com/ggerganov/llama.cpp/releases/tag/b4132\">b4132</a> for quantization."
+  },
+  {
+    "id": "tlennon-ie/qwen-edit-skin",
+    "task": "image-to-image",
+    "downloads": 14187,
+    "likes": 178,
+    "tags": "diffusers, lora, template:diffusion-lora, image-to-image, qwen, en, base_model:Qwen/Qwen-Image-Edit-2509, base_model:adapter:Qwen/Qwen-Image-Edit-2509",
+    "description": "EDIT- Version 1.1 uploaded with better convergence, less artifacts and more room in strengths to play with. See [\"Full comparision\" examples in the image folder here](https://huggingface.co/tlennon-ie"
+  },
+  {
+    "id": "LiheYoung/depth_anything_vits14",
+    "task": "depth-estimation",
+    "downloads": 3266,
+    "likes": 9,
+    "tags": "transformers, pytorch, depth_anything, depth-estimation, arxiv:2401.10891, endpoints_compatible, region:us",
+    "description": "The model card for our paper [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)."
+  },
+  {
+    "id": "tiantiaf/whisper-large-v3-broad-accent",
+    "task": "audio-classification",
+    "downloads": 3970,
+    "likes": 0,
+    "tags": "safetensors, model_hub_mixin, pytorch_model_hub_mixin, audio-classification, en, dataset:mozilla-foundation/common_voice_11_0, arxiv:2505.14648, base_model:openai/whisper-large-v3",
+    "description": "This model includes the implementation of broader accent classification described in Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits (https://arxi"
+  },
+  {
+    "id": "Aisha-AI-Official/wan2.2-rough-sex-sidefuck",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 5,
+    "tags": "lora, nsfw, image-text-to-video, base_model:Wan-AI/Wan2.2-I2V-A14B-Diffusers, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B-Diffusers, region:us",
+    "description": "The scene starts with the woman posing."
+  },
+  {
+    "id": "rizki-syazali/tapasid_finetuned_sqa_to_itqa",
+    "task": "table-question-answering",
+    "downloads": 2,
+    "likes": 0,
+    "tags": "transformers, safetensors, tapas, table-question-answering, arxiv:1910.09700, endpoints_compatible, region:us",
+    "description": "This is the model card of a \ud83e\udd17 transformers model that has been pushed on the Hub. This model card has been automatically generated."
+  },
+  {
+    "id": "Zyphra/Zonos-v0.1-transformer",
+    "task": "text-to-speech",
+    "downloads": 10309,
+    "likes": 422,
+    "tags": "zonos, safetensors, text-to-speech, license:apache-2.0, region:us",
+    "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with\u2014or even surpassing\u2014top TTS pro"
+  },
+  {
+    "id": "MoritzLaurer/DeBERTa-v3-base-mnli",
+    "task": "zero-shot-classification",
+    "downloads": 3373,
+    "likes": 8,
+    "tags": "transformers, pytorch, safetensors, deberta-v2, text-classification, zero-shot-classification, en, arxiv:2006.03654",
+    "description": "This model was trained on the MultiNLI dataset, which consists of 392 702 NLI hypothesis-premise pairs."
+  },
+  {
+    "id": "google/pegasus-cnn_dailymail",
+    "task": "summarization",
+    "downloads": 10995,
+    "likes": 110,
+    "tags": "transformers, pytorch, rust, pegasus, text2text-generation, summarization, en, arxiv:1912.08777",
+    "description": "See Docs: [here](https://huggingface.co/transformers/master/model_doc/pegasus.html)"
+  },
+  {
+    "id": "hotchpotch/open-provence-reranker-xsmall-v1",
+    "task": "text-ranking",
+    "downloads": 116504,
+    "likes": 1,
+    "tags": "safetensors, open_provence, text-ranking, custom_code, en, ja, dataset:hotchpotch/msmarco-context-relevance, dataset:hotchpotch/japanese-context-relevance",
+    "description": "> \u26a1\ufe0f Lightweight Provence-style rerankers that keep the answers and drop the noise for retrieval-augmented generation."
+  },
+  {
+    "id": "laion/CLIP-convnext_base_w-laion2B-s13B-b82K-augreg",
+    "task": "zero-shot-image-classification",
+    "downloads": 707578,
+    "likes": 7,
+    "tags": "open_clip, tensorboard, safetensors, clip, zero-shot-image-classification, arxiv:2201.03545, arxiv:1910.04867, license:mit",
+    "description": "1. [Model Details](#model-details)"
+  },
+  {
+    "id": "prapaa/eastrus-vl-qwen3-8b-gguf",
+    "task": "visual-question-answering",
+    "downloads": 306,
+    "likes": 0,
+    "tags": "llama.cpp, gguf, qwen3_vl, unsloth, vision-language-model, qwen3-vl, visual-question-answering, en",
+    "description": ""
+  },
+  {
+    "id": "mradermacher/SmolVLM2-2.2B-Instruct-i1-GGUF",
+    "task": "video-text-to-text",
+    "downloads": 351,
+    "likes": 0,
+    "tags": "transformers, gguf, video-text-to-text, en, dataset:HuggingFaceM4/the_cauldron, dataset:HuggingFaceM4/Docmatix, dataset:lmms-lab/LLaVA-OneVision-Data, dataset:lmms-lab/M4-Instruct-Data",
+    "description": "weighted/imatrix quants of https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+  },
+  {
+    "id": "fixie-ai/ultravox-v0_4_1-llama-3_1-8b",
+    "task": "audio-text-to-text",
+    "downloads": 1382,
+    "likes": 99,
+    "tags": "transformers, safetensors, ultravox, feature-extraction, audio-text-to-text, custom_code, ar, de",
+    "description": "Ultravox is a multimodal Speech LLM built around a pretrained [Llama3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B) and [whisper-large-v3-turbo](https://huggingface.co/openai/whi"
+  },
+  {
+    "id": "Qwen/Qwen3.5-35B-A3B",
+    "task": "image-text-to-text",
+    "downloads": 3715078,
+    "likes": 1377,
+    "tags": "transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, base_model:Qwen/Qwen3.5-35B-A3B-Base, base_model:finetune:Qwen/Qwen3.5-35B-A3B-Base, license:apache-2.0",
+    "description": "> This repository contains model weights and configuration files for the post-trained model in the Hugging Face Transformers format."
+  },
+  {
+    "id": "Satyaai/Satyaai",
+    "task": "image-text-to-video",
+    "downloads": 0,
+    "likes": 0,
+    "tags": "sample-factory, music, agent, chemistry, image-text-to-video, hi, dataset:Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b, dataset:HuggingFaceFW/finetranslations",
+    "description": "This modelcard aims to be a base template for new models. It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/modelca"
+  },
+  {
+    "id": "AnantP78/sam3_pt",
+    "task": "mask-generation",
+    "downloads": 8,
+    "likes": 0,
+    "tags": "transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en, license:other",
+    "description": "SAM 3 is a unified foundation model for promptable segmentation in images and videos. It can detect, segment, and track objects using text or visual prompts such as points, boxes, and masks. Compared "
+  },
+  {
+    "id": "ku-nlp/deberta-v2-large-japanese-char-wwm",
+    "task": "fill-mask",
+    "downloads": 232765,
+    "likes": 9,
+    "tags": "transformers, pytorch, safetensors, deberta-v2, fill-mask, deberta, character, wwm",
+    "description": "This is a Japanese DeBERTa V2 large model pre-trained on Japanese Wikipedia, the Japanese portion of CC-100, and the Japanese portion of OSCAR."
+  },
+  {
+    "id": "stabilityai/sd-turbo",
+    "task": "text-to-image",
+    "downloads": 656838,
+    "likes": 447,
+    "tags": "diffusers, safetensors, text-to-image, diffusers:StableDiffusionPipeline, region:us",
+    "description": "SD-Turbo is a fast generative text-to-image model that can synthesize photorealistic images from a text prompt in a single network evaluation."
+  },
+  {
+    "id": "FishWoWater/TRELLIS-text-xlarge-voxhammer",
+    "task": "text-to-3d",
+    "downloads": 7,
+    "likes": 0,
+    "tags": "trellis, text-to-3d, en, arxiv:2412.01506, license:mit, region:us",
+    "description": "The text conditioned version of TRELLIS with model size XL, a large 3D genetive model. It was introduced in the paper [Structured 3D Latents for Scalable and Versatile 3D Generation](https://huggingfa"
+  },
+  {
+    "id": "facebook/dino-vitb16",
+    "task": "image-feature-extraction",
+    "downloads": 395147,
+    "likes": 111,
+    "tags": "transformers, pytorch, tf, vit, image-feature-extraction, dino, vision, dataset:imagenet-1k",
+    "description": "Vision Transformer (ViT) model trained using the DINO method. It was introduced in the paper [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294) by Mathilde "
+  },
+  {
+    "id": "google/vit-base-patch32-224-in21k",
+    "task": "image-feature-extraction",
+    "downloads": 9814,
+    "likes": 19,
+    "tags": "transformers, pytorch, tf, jax, safetensors, vit, image-feature-extraction, vision",
+    "description": "Vision Transformer (ViT) model pre-trained on ImageNet-21k (14 million images, 21,843 classes) at resolution 224x224. It was introduced in the paper [An Image is Worth 16x16 Words: Transformers for Im"
+  },
+  {
+    "id": "sqfoo/STLDM_official",
+    "task": "video-to-video",
+    "downloads": 2,
+    "likes": 0,
+    "tags": "safetensors, climate, video-to-video, license:mit, region:us",
+    "description": "This model has been pushed to the Hub using the [PytorchModelHubMixin](https://huggingface.co/docs/huggingface_hub/package_reference/mixins#huggingface_hub.PyTorchModelHubMixin) integration:"
+  },
+  {
+    "id": "emrecan/bert-base-turkish-cased-snli_tr",
+    "task": "zero-shot-classification",
+    "downloads": 228,
+    "likes": 0,
+    "tags": "transformers, pytorch, bert, text-classification, zero-shot-classification, nli, tr, dataset:nli_tr",
+    "description": ""
+  },
+  {
+    "id": "Runware/Qwen-Image-Layered",
+    "task": "image-text-to-image",
+    "downloads": 251,
+    "likes": 0,
+    "tags": "diffusers, safetensors, image-text-to-image, en, zh, arxiv:2512.15603, base_model:Qwen/Qwen-Image, base_model:finetune:Qwen/Qwen-Image",
+    "description": "We are excited to introduce **Qwen-Image-Layered**, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks **inherent editability**: each layer can be i"
+  },
+  {
+    "id": "mradermacher/HunyuanOCR-i1-GGUF",
+    "task": "image-to-text",
+    "downloads": 2490,
+    "likes": 1,
+    "tags": "transformers, gguf, ocr, hunyuan, vision-language, image-to-text, 1B, end-to-end",
+    "description": "weighted/imatrix quants of https://huggingface.co/tencent/HunyuanOCR"
+  },
+  {
+    "id": "deepset/roberta-base-squad2-distilled",
+    "task": "question-answering",
+    "downloads": 5921,
+    "likes": 15,
+    "tags": "transformers, pytorch, safetensors, roberta, question-answering, exbert, en, dataset:squad_v2",
+    "description": "**Language model:** deepset/roberta-base-squad2-distilled"
+  },
+  {
+    "id": "BlackB/blip2-pokemon-pokemon",
+    "task": "visual-question-answering",
+    "downloads": 76,
+    "likes": 0,
+    "tags": "transformers, tensorboard, blip-2, visual-question-answering, endpoints_compatible, region:us",
+    "description": ""
+  },
+  {
+    "id": "timm/swin_base_patch4_window7_224.ms_in22k_ft_in1k",
+    "task": "image-classification",
+    "downloads": 88598,
+    "likes": 7,
+    "tags": "timm, pytorch, safetensors, image-classification, transformers, dataset:imagenet-1k, dataset:imagenet-22k, arxiv:2103.14030",
+    "description": "A Swin Transformer image classification model. Pretrained on ImageNet-22k and fine-tuned on ImageNet-1k by paper authors."
+  },
+  {
+    "id": "owkin/phikon-v2",
+    "task": "image-feature-extraction",
+    "downloads": 51303,
+    "likes": 35,
+    "tags": "transformers, safetensors, dinov2, image-feature-extraction, histology, pathology, vision, pytorch",
+    "description": "Phikon-v2 is a Vision Transformer Large pre-trained with Dinov2 self-supervised method on PANCAN-XL, a dataset of 450M 20x magnification histology images sampled from 60K whole slide images."
+  },
+  {
+    "id": "Sudhish-Poojary/ppo-LunarLander-v3",
+    "task": "reinforcement-learning",
+    "downloads": 379,
+    "likes": 0,
+    "tags": "stable-baselines3, LunarLander-v3, deep-reinforcement-learning, reinforcement-learning, model-index, region:us",
+    "description": "This is a trained model of a **PPO** agent playing **LunarLander-v3**"
+  },
+  {
+    "id": "pedromatias97/genre-recognizer-finetuned-gtzan_dset",
+    "task": "audio-classification",
+    "downloads": 2498,
+    "likes": 4,
+    "tags": "transformers, pytorch, hubert, audio-classification, generated_from_trainer, dataset:gtzan, base_model:ntu-spml/distilhubert, base_model:finetune:ntu-spml/distilhubert",
+    "description": "should probably proofread and complete it, then remove this comment. -->"
+  },
+  {
+    "id": "vismatch/sift-nn",
+    "task": "keypoint-detection",
+    "downloads": 39,
+    "likes": 0,
+    "tags": "vismatch, image-matching, keypoint-detection, feature-matching, license:apache-2.0, region:us",
+    "description": "For usage see https://github.com/gmberton/vismatch"
+  },
+  {
+    "id": "tencent/DepthCrafter",
+    "task": "depth-estimation",
+    "downloads": 42762,
+    "likes": 111,
+    "tags": "DepthCrafter, diffusers, safetensors, vision, depth-estimation, arxiv:2409.02095, license:other, region:us",
+    "description": "_**[Wenbo Hu<sup>1* &dagger;</sup>](https://wbhu.github.io),"
+  },
+  {
+    "id": "calcuis/hyvid",
+    "task": "text-to-video",
+    "downloads": 1654,
+    "likes": 25,
+    "tags": "gguf, hyvid, lora, gguf-comfy, gguf-node, text-to-video, en, dataset:trojblue/test-HunyuanVideo-anime-images",
+    "description": "- drag hyvid_lora_adapter.safetensors [[323MB](https://huggingface.co/calcuis/hyvid/blob/main/hyvid_lora_adapter.safetensors)] to > ./ComfyUI/models/loras"
+  },
+  {
+    "id": "TheDenk/wan2.2-video-continuation",
+    "task": "video-to-video",
+    "downloads": 14,
+    "likes": 2,
+    "tags": "diffusers, video, video-generation, video-to-video, wan2.2, en, license:apache-2.0, region:us",
+    "description": "This repo contains the code for video continuation inference using [Wan2.2](https://github.com/Wan-Video/Wan2.2)."
+  },
+  {
+    "id": "BAAI/bge-base-zh-v1.5",
+    "task": "feature-extraction",
+    "downloads": 411836,
+    "likes": 104,
+    "tags": "sentence-transformers, pytorch, bert, feature-extraction, sentence-similarity, transformers, zh, arxiv:2310.07554",
+    "description": "More details please refer to our Github: [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)."
+  },
+  {
+    "id": "meituan-longcat/LongCat-Image-Edit-Turbo",
+    "task": "image-to-image",
+    "downloads": 29655,
+    "likes": 57,
+    "tags": "transformers, diffusers, safetensors, image-to-image, en, zh, arxiv:2512.07584, license:apache-2.0",
+    "description": "[//]: # (  <a href='https://meituan-longcat.github.io/LongCat-Image/'><img src='https://img.shields.io/badge/Project-Page-green'></a>)"
+  },
+  {
+    "id": "facebook/maskformer-swin-tiny-ade",
+    "task": "image-segmentation",
+    "downloads": 1260,
+    "likes": 5,
+    "tags": "transformers, pytorch, safetensors, maskformer, vision, image-segmentation, dataset:scene_parse_150, arxiv:2107.06278",
+    "description": "MaskFormer model trained on ADE20k semantic segmentation (tiny-sized version, Swin backbone). It was introduced in the paper [Per-Pixel Classification is Not All You Need for Semantic Segmentation](ht"
+  },
+  {
+    "id": "Maikou/Michelangelo",
+    "task": "text-to-3d",
+    "downloads": 0,
+    "likes": 24,
+    "tags": "image-to-3d, text-to-3d, arxiv:2306.17115, license:lgpl-3.0, region:us",
+    "description": "* [Project Page](https://neuralcarver.github.io/michelangelo/)"
+  },
+  {
+    "id": "Helsinki-NLP/opus-mt-tc-big-en-bg",
+    "task": "translation",
+    "downloads": 22080,
+    "likes": 1,
+    "tags": "transformers, pytorch, tf, safetensors, marian, text2text-generation, translation, opus-mt-tc",
+    "description": "Neural machine translation model for translating from English (en) to Bulgarian (bg)."
+  },
+  {
+    "id": "jedyang97/Fast3R_ViT_Large_512",
+    "task": "image-to-3d",
+    "downloads": 790,
+    "likes": 28,
+    "tags": "fast3r, safetensors, image-to-3d, model_hub_mixin, pytorch_model_hub_mixin, arxiv:2501.13928, license:other, region:us",
+    "description": "To use Fast3R in your own project, you can import the `Fast3R` class from `fast3r.models.fast3r` (follow instructions from the [Fast3R GitHub repo](https://github.com/facebookresearch/fast3r) to insta"
+  },
+  {
+    "id": "k2-fsa/OmniVoice",
+    "task": "text-to-speech",
+    "downloads": 701830,
+    "likes": 600,
+    "tags": "omnivoice, safetensors, zero-shot, multilingual, voice-cloning, voice-design, text-to-speech, aae",
+    "description": "OmniVoice is a massively multilingual zero-shot text-to-speech (TTS) model supporting over 600 languages. Built on a novel diffusion language model-style architecture, it delivers high-quality speech "
+  },
+  {
+    "id": "qihoo360/360VL-8B",
+    "task": "visual-question-answering",
+    "downloads": 201,
+    "likes": 13,
+    "tags": "transformers, safetensors, QH_360VL, text-generation, visual-question-answering, custom_code, zh, en",
+    "description": "**360VL** is developed based on the LLama3 language model and is also the industry's first open source large multi-modal model based on **LLama3-70B**[[\ud83e\udd17Meta-Llama-3-70B-Instruct](https://huggingface."
+  },
+  {
+    "id": "PekingU/rtdetr_r50vd",
+    "task": "object-detection",
+    "downloads": 39064,
+    "likes": 29,
+    "tags": "transformers, safetensors, rt_detr, object-detection, vision, en, dataset:coco, arxiv:2304.08069",
+    "description": "1. [Model Details](#model-details)"
+  },
+  {
+    "id": "TheDenk/wan2.1-t2v-1.3b-controlnet-hed-v1",
+    "task": "video-to-video",
+    "downloads": 118,
+    "likes": 4,
+    "tags": "diffusers, safetensors, video, video-generation, video-to-video, controlnet, en, license:apache-2.0",
+    "description": "This repo contains the code for dilated controlnet module for Wan2.1 model."
+  },
+  {
+    "id": "numind/NuMarkdown-8B-Thinking",
+    "task": "image-to-text",
+    "downloads": 133315,
+    "likes": 452,
+    "tags": "transformers, safetensors, qwen2_5_vl, image-text-to-text, OCR, vision-language, VLM, Reasoning",
+    "description": "\ud83d\udda5\ufe0f <a href=\"https://nuextract.ai/\">API / Platform</a>&nbsp&nbsp | &nbsp&nbsp\ud83d\udde3\ufe0f <a href=\"https://discord.gg/3tsEtJNCDe\">Discord</a>&nbsp&nbsp | &nbsp&nbsp\ud83d\udd17 <a href=\"https://github.com/numindai/NuMarkdo"
+  },
+  {
+    "id": "LiquidAI/LFM2-350M-ENJP-MT-GGUF",
+    "task": "translation",
+    "downloads": 44803,
+    "likes": 31,
+    "tags": "transformers, gguf, liquid, lfm2, edge, translation, japanese, en",
+    "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\""
+  },
+  {
+    "id": "westlake-repl/SaProt_650M_AF2",
+    "task": "fill-mask",
+    "downloads": 101671,
+    "likes": 16,
+    "tags": "transformers, pytorch, esm, fill-mask, license:mit, endpoints_compatible, region:us, deploy:azure",
+    "description": "We provide two ways to use SaProt, including through huggingface class and"
+  },
+  {
+    "id": "prithivMLmods/Common-Voice-Gender-Detection",
+    "task": "audio-classification",
+    "downloads": 138222,
+    "likes": 24,
+    "tags": "transformers, safetensors, wav2vec2, audio-classification, voice-gender-detection, male, female, biology",
+    "description": "> **Common-Voice-Gender-Detection** is a fine-tuned version of `facebook/wav2vec2-base-960h` for **binary audio classification**, specifically trained to detect speaker gender as **female** or **male*"
+  },
+  {
+    "id": "mradermacher/Polaris-VGA-4B-Post1.0e-GGUF",
+    "task": "object-detection",
+    "downloads": 1024,
+    "likes": 0,
+    "tags": "transformers, gguf, text-generation-inference, object-detection, localization, grounding, visual-grounding-anything, vllm",
+    "description": "static quants of https://huggingface.co/prithivMLmods/Polaris-VGA-4B-Post1.0e"
+  },
+  {
+    "id": "davidleiva4999/TRELLIS-text-xlarge",
+    "task": "text-to-3d",
+    "downloads": 36,
+    "likes": 0,
+    "tags": "trellis, text-to-3d, en, arxiv:2412.01506, license:mit, region:us",
+    "description": "The text conditioned version of TRELLIS with model size XL, a large 3D genetive model. It was introduced in the paper [Structured 3D Latents for Scalable and Versatile 3D Generation](https://huggingfa"
+  },
+  {
+    "id": "microsoft/BiomedVLP-CXR-BERT-specialized",
+    "task": "fill-mask",
+    "downloads": 105931,
+    "likes": 35,
+    "tags": "transformers, pytorch, safetensors, cxr-bert, feature-extraction, exbert, fill-mask, custom_code",
+    "description": "[CXR-BERT](https://arxiv.org/abs/2204.09817) is a chest X-ray (CXR) domain-specific language model that makes use of an improved vocabulary, novel pretraining procedure, weight regularization, and tex"
+  },
+  {
+    "id": "microsoft/git-base-textvqa",
+    "task": "visual-question-answering",
+    "downloads": 560,
+    "likes": 7,
+    "tags": "transformers, pytorch, safetensors, git, image-text-to-text, vision, visual-question-answering, en",
+    "description": "GIT (short for GenerativeImage2Text) model, base-sized version, fine-tuned on TextVQA. It was introduced in the paper [GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxi"
+  },
+  {
+    "id": "cerspense/zeroscope_v2_XL",
+    "task": "video-to-video",
+    "downloads": 425,
+    "likes": 504,
+    "tags": "diffusers, video-to-video, license:cc-by-nc-4.0, diffusers:VideoToVideoSDPipeline, region:us",
+    "description": "[example outputs](https://www.youtube.com/watch?v=HO3APT_0UA4) (courtesy of [dotsimulate](https://www.instagram.com/dotsimulate/))"
+  },
+  {
+    "id": "BAAI/bge-multilingual-gemma2",
+    "task": "feature-extraction",
+    "downloads": 781922,
+    "likes": 199,
+    "tags": "sentence-transformers, safetensors, gemma2, feature-extraction, sentence-similarity, transformers, mteb, arxiv:2402.03216",
+    "description": "For more details please refer to our Github: [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)."
+  },
+  {
+    "id": "onnx-community/owlv2-base-patch16-ensemble-ONNX",
+    "task": "zero-shot-object-detection",
+    "downloads": 11,
+    "likes": 1,
+    "tags": "transformers.js, onnx, owlv2, zero-shot-object-detection, base_model:google/owlv2-base-patch16-ensemble, base_model:quantized:google/owlv2-base-patch16-ensemble, region:us",
+    "description": "This is an ONNX version of [google/owlv2-base-patch16-ensemble](https://huggingface.co/google/owlv2-base-patch16-ensemble). It was automatically converted and uploaded using [this space](https://huggi"
+  },
+  {
+    "id": "ZhengPeng7/BiRefNet_512x512",
+    "task": "image-segmentation",
+    "downloads": 1681,
+    "likes": 5,
+    "tags": "birefnet, safetensors, background-removal, mask-generation, Dichotomous Image Segmentation, Camouflaged Object Detection, Salient Object Detection, pytorch_model_hub_mixin",
+    "description": "> This BiRefNet was trained with images in `512x512` for faster and more accurate lower resolution inference."
+  },
+  {
+    "id": "vidore/colqwen2.5-v0.1",
+    "task": "visual-document-retrieval",
+    "downloads": 145,
+    "likes": 0,
+    "tags": "colpali, safetensors, vidore, vidore-experimental, visual-document-retrieval, en, arxiv:2004.12832, arxiv:2407.01449",
+    "description": "ColQwen is a model based on a novel model architecture and training strategy based on Vision Language Models (VLMs) to efficiently index documents from their visual features."
+  },
+  {
+    "id": "KiranKSaravana/sd-class-butterflies-32-copy-5",
+    "task": "unconditional-image-generation",
+    "downloads": 32,
+    "likes": 0,
+    "tags": "diffusers, safetensors, pytorch, unconditional-image-generation, diffusion-models-class, license:mit, diffusers:DDPMPipeline, region:us",
+    "description": "This model is a diffusion model for unconditional image generation of cute \ud83e\udd8b."
+  },
+  {
+    "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "task": "text-generation",
+    "downloads": 1829910,
+    "likes": 1011,
+    "tags": "transformers, safetensors, qwen3_moe, text-generation, conversational, arxiv:2505.09388, license:apache-2.0, endpoints_compatible",
+    "description": "**Qwen3-Coder** is available in multiple sizes. Today, we're excited to introduce **Qwen3-Coder-30B-A3B-Instruct**. This streamlined model maintains impressive performance and efficiency, featuring th"
+  },
+  {
+    "id": "twelcone/medsam2-hiera-large",
+    "task": "mask-generation",
+    "downloads": 27,
+    "likes": 1,
+    "tags": "sam2, coreml, mask-generation, arxiv:2408.00714, license:apache-2.0, region:us",
+    "description": "MedSAM2 Large is a specialized version of SAM2 for medical image segmentation tasks, now available for use with CoreML. This model is optimized to work seamlessly on Apple devices, enabling efficient,"
+  },
+  {
+    "id": "google/owlv2-base-patch16-ensemble",
+    "task": "zero-shot-object-detection",
+    "downloads": 961008,
+    "likes": 118,
+    "tags": "transformers, pytorch, safetensors, owlv2, zero-shot-object-detection, vision, arxiv:2306.09683, license:apache-2.0",
+    "description": "The OWLv2 model (short for Open-World Localization) was proposed in [Scaling Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.09683) by Matthias Minderer, Alexey Gritsenko, Neil Houlsby. O"
+  },
+  {
+    "id": "wyysf/CraftsMan",
+    "task": "text-to-3d",
+    "downloads": 0,
+    "likes": 14,
+    "tags": "text-to-3d, arxiv:2405.14979, license:other, region:us",
+    "description": "Model card for *CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner*."
+  },
+  {
+    "id": "M-Ahmad-Abid/Diabetes_model",
+    "task": "tabular-classification",
+    "downloads": 20,
+    "likes": 0,
+    "tags": "transformers, joblib, xgboost, autotrain, tabular, classification, tabular-classification, dataset:M-Ahmad-Abid/autotrain-data-diabetes",
+    "description": "- Problem type: Binary Classification"
+  }
+]
